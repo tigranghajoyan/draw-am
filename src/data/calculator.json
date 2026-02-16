@@ -1,0 +1,443 @@
+{
+  "categories": [
+    {
+      "id": "ceiling",
+      "name": { "hy": "Ceiling", "en": "Ceiling", "ru": "Потолок" },
+      "icon": "square-dashed-bottom",
+      "items": [
+        {
+          "id": "ceiling-plasterboard",
+          "name": { "hy": "Plasterboard Ceiling", "en": "Plasterboard Ceiling", "ru": "Потолок из гипсокартона" },
+          "unit": "m²",
+          "defaultMaterialCost": 8000,
+          "defaultServiceCost": 5000,
+          "image": "https://images.unsplash.com/photo-1631679706909-1844bbd07221?w=400&q=80"
+        },
+        {
+          "id": "ceiling-plastering-painting",
+          "name": { "hy": "Plastering & Painting", "en": "Plastering & Painting", "ru": "Штукатурка и покраска" },
+          "unit": "m²",
+          "defaultMaterialCost": 3000,
+          "defaultServiceCost": 4000,
+          "image": "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?w=400&q=80"
+        },
+        {
+          "id": "ceiling-molding",
+          "name": { "hy": "Ceiling Molding", "en": "Ceiling Molding", "ru": "Потолочный молдинг" },
+          "unit": "m (linear)",
+          "defaultMaterialCost": 2500,
+          "defaultServiceCost": 1500,
+          "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=400&q=80"
+        },
+        {
+          "id": "ceiling-stretch",
+          "name": { "hy": "Stretch Ceiling", "en": "Stretch Ceiling", "ru": "Натяжной потолок" },
+          "unit": "m²",
+          "defaultMaterialCost": 6000,
+          "defaultServiceCost": 3000,
+          "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=400&q=80"
+        }
+      ]
+    },
+    {
+      "id": "walls",
+      "name": { "hy": "Walls", "en": "Walls", "ru": "Стены" },
+      "icon": "brick-wall",
+      "items": [
+        {
+          "id": "walls-stone",
+          "name": { "hy": "Stone Walls", "en": "Stone Walls", "ru": "Каменные стены" },
+          "unit": "m²",
+          "defaultMaterialCost": 15000,
+          "defaultServiceCost": 8000,
+          "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=400&q=80"
+        },
+        {
+          "id": "walls-gypsum-plastering",
+          "name": { "hy": "Gypsum Plastering", "en": "Gypsum Plastering", "ru": "Гипсовая штукатурка" },
+          "unit": "m²",
+          "defaultMaterialCost": 4000,
+          "defaultServiceCost": 5000,
+          "image": "https://images.unsplash.com/photo-1604709177225-055f99402ea3?w=400&q=80"
+        },
+        {
+          "id": "walls-plastering-painting",
+          "name": { "hy": "Plastering & Painting", "en": "Plastering & Painting", "ru": "Штукатурка и покраска" },
+          "unit": "m²",
+          "defaultMaterialCost": 3500,
+          "defaultServiceCost": 4000,
+          "image": "https://images.unsplash.com/photo-1562259949-e8e7689d7828?w=400&q=80"
+        }
+      ]
+    },
+    {
+      "id": "floor",
+      "name": { "hy": "Floor", "en": "Floor", "ru": "Пол" },
+      "icon": "grid-2x2",
+      "items": [
+        {
+          "id": "floor-heated",
+          "name": { "hy": "Heated Floors", "en": "Heated Floors", "ru": "Тёплый пол" },
+          "unit": "m²",
+          "defaultMaterialCost": 10000,
+          "defaultServiceCost": 6000,
+          "image": "https://images.unsplash.com/photo-1585128792020-803d29415281?w=400&q=80"
+        },
+        {
+          "id": "floor-laminate",
+          "name": { "hy": "Laminate Flooring", "en": "Laminate Flooring", "ru": "Ламинат" },
+          "unit": "m²",
+          "defaultMaterialCost": 5000,
+          "defaultServiceCost": 3000,
+          "image": "https://images.unsplash.com/photo-1622398925373-3f91b1e275f5?w=400&q=80"
+        },
+        {
+          "id": "floor-parquet",
+          "name": { "hy": "Parquet Flooring", "en": "Parquet Flooring", "ru": "Паркет" },
+          "unit": "m²",
+          "defaultMaterialCost": 12000,
+          "defaultServiceCost": 5000,
+          "image": "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=400&q=80"
+        },
+        {
+          "id": "floor-molding",
+          "name": { "hy": "Floor Molding", "en": "Floor Molding", "ru": "Напольный плинтус" },
+          "unit": "m (linear)",
+          "defaultMaterialCost": 2000,
+          "defaultServiceCost": 1000,
+          "image": "https://images.unsplash.com/photo-1581858726788-75bc0f6a952d?w=400&q=80"
+        }
+      ]
+    },
+    {
+      "id": "doors-windows",
+      "name": { "hy": "Doors & Windows", "en": "Doors & Windows", "ru": "Двери и окна" },
+      "icon": "door-open",
+      "items": [
+        {
+          "id": "doors-interior",
+          "name": { "hy": "Interior Doors", "en": "Interior Doors", "ru": "Межкомнатные двери" },
+          "unit": "pcs",
+          "defaultMaterialCost": 45000,
+          "defaultServiceCost": 10000,
+          "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=400&q=80"
+        },
+        {
+          "id": "doors-hidden",
+          "name": { "hy": "Hidden Doors", "en": "Hidden Doors", "ru": "Скрытые двери" },
+          "unit": "pcs",
+          "defaultMaterialCost": 80000,
+          "defaultServiceCost": 20000,
+          "image": "https://images.unsplash.com/photo-1600607687644-c7171b42498f?w=400&q=80"
+        },
+        {
+          "id": "windows",
+          "name": { "hy": "Windows", "en": "Windows", "ru": "Окна" },
+          "unit": "pcs",
+          "defaultMaterialCost": 60000,
+          "defaultServiceCost": 15000,
+          "image": "https://images.unsplash.com/photo-1604871000636-074fa5117945?w=400&q=80"
+        },
+        {
+          "id": "window-sills",
+          "name": { "hy": "Window Sills", "en": "Window Sills", "ru": "Подоконники" },
+          "unit": "m (linear)",
+          "defaultMaterialCost": 8000,
+          "defaultServiceCost": 3000,
+          "image": "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?w=400&q=80"
+        }
+      ]
+    },
+    {
+      "id": "hvac",
+      "name": { "hy": "Heating / Cooling / Ventilation", "en": "Heating / Cooling / Ventilation", "ru": "Отопление / Кондиционирование / Вентиляция" },
+      "icon": "thermometer",
+      "items": [
+        {
+          "id": "hvac-boiler",
+          "name": { "hy": "Boiler", "en": "Boiler", "ru": "Котёл" },
+          "unit": "pcs",
+          "defaultMaterialCost": 250000,
+          "defaultServiceCost": 50000,
+          "image": "https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=400&q=80"
+        },
+        {
+          "id": "hvac-heating-system",
+          "name": { "hy": "Heating System", "en": "Heating System", "ru": "Система отопления" },
+          "unit": "point",
+          "defaultMaterialCost": 30000,
+          "defaultServiceCost": 15000,
+          "image": "https://images.unsplash.com/photo-1600566752229-250ed79470f8?w=400&q=80"
+        },
+        {
+          "id": "hvac-water-pipeline",
+          "name": { "hy": "Water Pipeline", "en": "Water Pipeline", "ru": "Водопровод" },
+          "unit": "point",
+          "defaultMaterialCost": 20000,
+          "defaultServiceCost": 12000,
+          "image": "https://images.unsplash.com/photo-1607472586893-edb57bdc0e39?w=400&q=80"
+        }
+      ]
+    },
+    {
+      "id": "bathroom",
+      "name": { "hy": "Bathroom / Plumbing", "en": "Bathroom / Plumbing", "ru": "Санузел / Сантехника" },
+      "icon": "bath",
+      "items": [
+        {
+          "id": "bathroom-sewage",
+          "name": { "hy": "Sewage System", "en": "Sewage System", "ru": "Канализация" },
+          "unit": "point",
+          "defaultMaterialCost": 15000,
+          "defaultServiceCost": 10000,
+          "image": "https://images.unsplash.com/photo-1585128792020-803d29415281?w=400&q=80"
+        },
+        {
+          "id": "bathroom-floor-tile",
+          "name": { "hy": "Floor Tile", "en": "Floor Tile", "ru": "Напольная плитка" },
+          "unit": "m²",
+          "defaultMaterialCost": 8000,
+          "defaultServiceCost": 6000,
+          "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=400&q=80"
+        },
+        {
+          "id": "bathroom-wall-tile",
+          "name": { "hy": "Wall Tile", "en": "Wall Tile", "ru": "Настенная плитка" },
+          "unit": "m²",
+          "defaultMaterialCost": 7000,
+          "defaultServiceCost": 6000,
+          "image": "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=400&q=80"
+        },
+        {
+          "id": "bathroom-toilet",
+          "name": { "hy": "Toilet", "en": "Toilet", "ru": "Унитаз" },
+          "unit": "pcs",
+          "defaultMaterialCost": 35000,
+          "defaultServiceCost": 8000,
+          "image": "https://images.unsplash.com/photo-1585412727339-54e4bae3bbf9?w=400&q=80"
+        },
+        {
+          "id": "bathroom-built-in-toilet",
+          "name": { "hy": "Built-in Toilet", "en": "Built-in Toilet", "ru": "Встроенный унитаз" },
+          "unit": "pcs",
+          "defaultMaterialCost": 55000,
+          "defaultServiceCost": 15000,
+          "image": "https://images.unsplash.com/photo-1564540586988-aa4e53c3d799?w=400&q=80"
+        },
+        {
+          "id": "bathroom-shower",
+          "name": { "hy": "Shower", "en": "Shower", "ru": "Душ" },
+          "unit": "pcs",
+          "defaultMaterialCost": 40000,
+          "defaultServiceCost": 12000,
+          "image": "https://images.unsplash.com/photo-1620626011761-996317b8d101?w=400&q=80"
+        },
+        {
+          "id": "bathroom-wash-stand",
+          "name": { "hy": "Wash Stand", "en": "Wash Stand", "ru": "Раковина" },
+          "unit": "pcs",
+          "defaultMaterialCost": 30000,
+          "defaultServiceCost": 8000,
+          "image": "https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?w=400&q=80"
+        },
+        {
+          "id": "bathroom-faucet",
+          "name": { "hy": "Faucet", "en": "Faucet", "ru": "Смеситель" },
+          "unit": "pcs",
+          "defaultMaterialCost": 15000,
+          "defaultServiceCost": 3000,
+          "image": "https://images.unsplash.com/photo-1585412727339-54e4bae3bbf9?w=400&q=80"
+        },
+        {
+          "id": "bathroom-shower-cubicle",
+          "name": { "hy": "Shower Cubicle", "en": "Shower Cubicle", "ru": "Душевая кабина" },
+          "unit": "pcs",
+          "defaultMaterialCost": 70000,
+          "defaultServiceCost": 15000,
+          "image": "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=400&q=80"
+        },
+        {
+          "id": "bathroom-bathtub",
+          "name": { "hy": "Bathroom Shower / Bathtub", "en": "Bathroom Shower / Bathtub", "ru": "Ванна" },
+          "unit": "pcs",
+          "defaultMaterialCost": 60000,
+          "defaultServiceCost": 15000,
+          "image": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=400&q=80"
+        }
+      ]
+    },
+    {
+      "id": "power",
+      "name": { "hy": "Power Supply", "en": "Power Supply", "ru": "Электроснабжение" },
+      "icon": "zap",
+      "items": [
+        {
+          "id": "power-cables",
+          "name": { "hy": "Cables", "en": "Cables", "ru": "Кабели" },
+          "unit": "meter",
+          "defaultMaterialCost": 500,
+          "defaultServiceCost": 1000,
+          "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=400&q=80"
+        },
+        {
+          "id": "power-led-strips",
+          "name": { "hy": "LED Strips", "en": "LED Strips", "ru": "Светодиодные ленты" },
+          "unit": "meter",
+          "defaultMaterialCost": 3000,
+          "defaultServiceCost": 2000,
+          "image": "https://images.unsplash.com/photo-1565814329452-e1efa11c5b89?w=400&q=80"
+        },
+        {
+          "id": "power-pointed-lights",
+          "name": { "hy": "Pointed Lights", "en": "Pointed Lights", "ru": "Точечные светильники" },
+          "unit": "pcs",
+          "defaultMaterialCost": 5000,
+          "defaultServiceCost": 3000,
+          "image": "https://images.unsplash.com/photo-1524484485831-a92ffc0de03f?w=400&q=80"
+        },
+        {
+          "id": "power-fuse",
+          "name": { "hy": "Fuse Box", "en": "Fuse Box", "ru": "Щиток" },
+          "unit": "pcs",
+          "defaultMaterialCost": 25000,
+          "defaultServiceCost": 10000,
+          "image": "https://images.unsplash.com/photo-1621905252507-b35492cc74b4?w=400&q=80"
+        },
+        {
+          "id": "power-sockets",
+          "name": { "hy": "Sockets", "en": "Sockets", "ru": "Розетки" },
+          "unit": "pcs",
+          "defaultMaterialCost": 2000,
+          "defaultServiceCost": 2500,
+          "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=400&q=80"
+        },
+        {
+          "id": "power-switches",
+          "name": { "hy": "Switches", "en": "Switches", "ru": "Выключатели" },
+          "unit": "pcs",
+          "defaultMaterialCost": 2000,
+          "defaultServiceCost": 2000,
+          "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=400&q=80"
+        },
+        {
+          "id": "power-chandelier",
+          "name": { "hy": "Chandelier", "en": "Chandelier", "ru": "Люстра" },
+          "unit": "pcs",
+          "defaultMaterialCost": 45000,
+          "defaultServiceCost": 8000,
+          "image": "https://images.unsplash.com/photo-1543198126-a8ad8e47fb22?w=400&q=80"
+        }
+      ]
+    }
+  ],
+  "packages": [
+    {
+      "id": "affordable",
+      "name": { "hy": "Affordable", "en": "Affordable", "ru": "Экономичный" },
+      "description": {
+        "hy": "Quality renovation at an optimized budget with reliable materials and professional service.",
+        "en": "Quality renovation at an optimized budget with reliable materials and professional service.",
+        "ru": "Качественный ремонт при оптимизированном бюджете с надёжными материалами и профессиональным обслуживанием."
+      },
+      "icon": "wallet",
+      "designCostPerSqm": 12000,
+      "itemCosts": {
+        "ceiling-plasterboard": { "materialCost": 6000, "serviceCost": 4000 },
+        "ceiling-plastering-painting": { "materialCost": 2000, "serviceCost": 3000 },
+        "ceiling-molding": { "materialCost": 1500, "serviceCost": 1000 },
+        "ceiling-stretch": { "materialCost": 4000, "serviceCost": 2500 },
+        "walls-stone": { "materialCost": 10000, "serviceCost": 6000 },
+        "walls-gypsum-plastering": { "materialCost": 3000, "serviceCost": 4000 },
+        "walls-plastering-painting": { "materialCost": 2500, "serviceCost": 3000 },
+        "floor-heated": { "materialCost": 7000, "serviceCost": 4500 },
+        "floor-laminate": { "materialCost": 3500, "serviceCost": 2000 },
+        "floor-parquet": { "materialCost": 8000, "serviceCost": 4000 },
+        "floor-molding": { "materialCost": 1200, "serviceCost": 800 },
+        "doors-interior": { "materialCost": 30000, "serviceCost": 8000 },
+        "doors-hidden": { "materialCost": 60000, "serviceCost": 15000 },
+        "windows": { "materialCost": 40000, "serviceCost": 10000 },
+        "window-sills": { "materialCost": 5000, "serviceCost": 2000 },
+        "hvac-boiler": { "materialCost": 180000, "serviceCost": 40000 },
+        "hvac-heating-system": { "materialCost": 20000, "serviceCost": 10000 },
+        "hvac-water-pipeline": { "materialCost": 15000, "serviceCost": 8000 },
+        "bathroom-sewage": { "materialCost": 10000, "serviceCost": 7000 },
+        "bathroom-floor-tile": { "materialCost": 5000, "serviceCost": 4500 },
+        "bathroom-wall-tile": { "materialCost": 4500, "serviceCost": 4500 },
+        "bathroom-toilet": { "materialCost": 20000, "serviceCost": 6000 },
+        "bathroom-built-in-toilet": { "materialCost": 35000, "serviceCost": 10000 },
+        "bathroom-shower": { "materialCost": 25000, "serviceCost": 8000 },
+        "bathroom-wash-stand": { "materialCost": 18000, "serviceCost": 5000 },
+        "bathroom-faucet": { "materialCost": 8000, "serviceCost": 2000 },
+        "bathroom-shower-cubicle": { "materialCost": 45000, "serviceCost": 10000 },
+        "bathroom-bathtub": { "materialCost": 40000, "serviceCost": 10000 },
+        "power-cables": { "materialCost": 300, "serviceCost": 700 },
+        "power-led-strips": { "materialCost": 2000, "serviceCost": 1500 },
+        "power-pointed-lights": { "materialCost": 3000, "serviceCost": 2000 },
+        "power-fuse": { "materialCost": 18000, "serviceCost": 8000 },
+        "power-sockets": { "materialCost": 1200, "serviceCost": 1800 },
+        "power-switches": { "materialCost": 1200, "serviceCost": 1500 },
+        "power-chandelier": { "materialCost": 25000, "serviceCost": 5000 }
+      }
+    },
+    {
+      "id": "luxury",
+      "name": { "hy": "Luxury", "en": "Luxury", "ru": "Премиум" },
+      "description": {
+        "hy": "Premium finishes and top-tier materials for an exceptional living experience.",
+        "en": "Premium finishes and top-tier materials for an exceptional living experience.",
+        "ru": "Премиальная отделка и материалы высшего класса для исключительного жилого пространства."
+      },
+      "icon": "gem",
+      "designCostPerSqm": 15000,
+      "itemCosts": {
+        "ceiling-plasterboard": { "materialCost": 12000, "serviceCost": 7000 },
+        "ceiling-plastering-painting": { "materialCost": 5000, "serviceCost": 5500 },
+        "ceiling-molding": { "materialCost": 4000, "serviceCost": 2500 },
+        "ceiling-stretch": { "materialCost": 9000, "serviceCost": 4500 },
+        "walls-stone": { "materialCost": 25000, "serviceCost": 12000 },
+        "walls-gypsum-plastering": { "materialCost": 6000, "serviceCost": 7000 },
+        "walls-plastering-painting": { "materialCost": 5500, "serviceCost": 5500 },
+        "floor-heated": { "materialCost": 15000, "serviceCost": 8000 },
+        "floor-laminate": { "materialCost": 8000, "serviceCost": 4500 },
+        "floor-parquet": { "materialCost": 20000, "serviceCost": 7000 },
+        "floor-molding": { "materialCost": 3500, "serviceCost": 1500 },
+        "doors-interior": { "materialCost": 70000, "serviceCost": 15000 },
+        "doors-hidden": { "materialCost": 120000, "serviceCost": 30000 },
+        "windows": { "materialCost": 100000, "serviceCost": 20000 },
+        "window-sills": { "materialCost": 15000, "serviceCost": 5000 },
+        "hvac-boiler": { "materialCost": 400000, "serviceCost": 70000 },
+        "hvac-heating-system": { "materialCost": 50000, "serviceCost": 25000 },
+        "hvac-water-pipeline": { "materialCost": 35000, "serviceCost": 18000 },
+        "bathroom-sewage": { "materialCost": 25000, "serviceCost": 15000 },
+        "bathroom-floor-tile": { "materialCost": 15000, "serviceCost": 8000 },
+        "bathroom-wall-tile": { "materialCost": 14000, "serviceCost": 8000 },
+        "bathroom-toilet": { "materialCost": 60000, "serviceCost": 12000 },
+        "bathroom-built-in-toilet": { "materialCost": 90000, "serviceCost": 25000 },
+        "bathroom-shower": { "materialCost": 70000, "serviceCost": 18000 },
+        "bathroom-wash-stand": { "materialCost": 55000, "serviceCost": 12000 },
+        "bathroom-faucet": { "materialCost": 30000, "serviceCost": 5000 },
+        "bathroom-shower-cubicle": { "materialCost": 120000, "serviceCost": 25000 },
+        "bathroom-bathtub": { "materialCost": 100000, "serviceCost": 20000 },
+        "power-cables": { "materialCost": 800, "serviceCost": 1500 },
+        "power-led-strips": { "materialCost": 5000, "serviceCost": 3000 },
+        "power-pointed-lights": { "materialCost": 8000, "serviceCost": 4500 },
+        "power-fuse": { "materialCost": 40000, "serviceCost": 15000 },
+        "power-sockets": { "materialCost": 3500, "serviceCost": 3500 },
+        "power-switches": { "materialCost": 3500, "serviceCost": 3000 },
+        "power-chandelier": { "materialCost": 80000, "serviceCost": 12000 }
+      }
+    },
+    {
+      "id": "individual",
+      "name": { "hy": "Individual", "en": "Individual", "ru": "Индивидуальный" },
+      "description": {
+        "hy": "Full control — set every quantity and cost yourself for a fully custom estimate.",
+        "en": "Full control — set every quantity and cost yourself for a fully custom estimate.",
+        "ru": "Полный контроль — задайте количество и стоимость самостоятельно для полностью индивидуальной сметы."
+      },
+      "icon": "sliders-horizontal",
+      "designCostPerSqm": 15000,
+      "itemCosts": {}
+    }
+  ]
+}

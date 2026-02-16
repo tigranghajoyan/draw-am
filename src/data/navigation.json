@@ -1,0 +1,9 @@
+[
+  { "key": "nav.home", "path": "/" },
+  { "key": "nav.about", "path": "/about" },
+  { "key": "nav.services", "path": "/services" },
+  { "key": "nav.projects", "path": "/projects" },
+  { "key": "nav.blog", "path": "/blog" },
+  { "key": "nav.calculator", "path": "/calculator" },
+  { "key": "nav.contact", "path": "/contact" }
+]

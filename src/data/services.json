@@ -1,0 +1,176 @@
+[
+  {
+    "icon": "compass",
+    "title": { "hy": "Planning", "en": "Planning", "ru": "Планирование" },
+    "description": {
+      "hy": "Our master plans provide a comprehensive look at where an organization is today.",
+      "en": "Our master plans provide a comprehensive look at where an organization is today.",
+      "ru": "Наши генеральные планы дают комплексное представление о текущем состоянии организации."
+    },
+    "features": {
+      "hy": [
+        "Site analysis and feasibility studies",
+        "Spatial programming and needs assessment",
+        "Zoning and regulatory review",
+        "Project scoping and phasing"
+      ],
+      "en": [
+        "Site analysis and feasibility studies",
+        "Spatial programming and needs assessment",
+        "Zoning and regulatory review",
+        "Project scoping and phasing"
+      ],
+      "ru": [
+        "Анализ участка и технико-экономическое обоснование",
+        "Пространственное программирование и оценка потребностей",
+        "Зонирование и нормативная проверка",
+        "Определение объёма и этапов проекта"
+      ]
+    }
+  },
+  {
+    "icon": "lightbulb",
+    "title": { "hy": "Interior", "en": "Interior", "ru": "Интерьер" },
+    "description": {
+      "hy": "You may engage your architect to provide an interior design service, advising on loose furniture.",
+      "en": "You may engage your architect to provide an interior design service, advising on loose furniture.",
+      "ru": "Вы можете привлечь архитектора для оказания услуг по дизайну интерьера, включая консультации по мебели."
+    },
+    "features": {
+      "hy": [
+        "Space planning and layout design",
+        "Material and finish selection",
+        "Furniture consultation and procurement",
+        "Lighting design and ambiance"
+      ],
+      "en": [
+        "Space planning and layout design",
+        "Material and finish selection",
+        "Furniture consultation and procurement",
+        "Lighting design and ambiance"
+      ],
+      "ru": [
+        "Планирование пространства и компоновка",
+        "Подбор материалов и отделки",
+        "Консультации по мебели и поставки",
+        "Световой дизайн и атмосфера"
+      ]
+    }
+  },
+  {
+    "icon": "layers",
+    "title": { "hy": "Exterior", "en": "Exterior", "ru": "Экстерьер" },
+    "description": {
+      "hy": "Working together with your architect, you will share your project needs, dreams and goals.",
+      "en": "Working together with your architect, you will share your project needs, dreams and goals.",
+      "ru": "Работая вместе с архитектором, вы поделитесь потребностями, мечтами и целями проекта."
+    },
+    "features": {
+      "hy": [
+        "Facade design and material selection",
+        "Contextual and environmental analysis",
+        "Elevation and massing studies",
+        "Outdoor living and landscaping integration"
+      ],
+      "en": [
+        "Facade design and material selection",
+        "Contextual and environmental analysis",
+        "Elevation and massing studies",
+        "Outdoor living and landscaping integration"
+      ],
+      "ru": [
+        "Дизайн фасада и подбор материалов",
+        "Контекстуальный и экологический анализ",
+        "Исследования высотности и объёмов",
+        "Интеграция наружного пространства и ландшафта"
+      ]
+    }
+  },
+  {
+    "icon": "wrench",
+    "title": { "hy": "Restoration", "en": "Restoration", "ru": "Реставрация" },
+    "description": {
+      "hy": "Describes a particular treatment approach and philosophy within the field of architectural conservation.",
+      "en": "Describes a particular treatment approach and philosophy within the field of architectural conservation.",
+      "ru": "Описывает особый подход к обработке и философию в области архитектурной консервации."
+    },
+    "features": {
+      "hy": [
+        "Historic building assessment",
+        "Conservation planning and strategy",
+        "Material restoration and preservation",
+        "Adaptive reuse design"
+      ],
+      "en": [
+        "Historic building assessment",
+        "Conservation planning and strategy",
+        "Material restoration and preservation",
+        "Adaptive reuse design"
+      ],
+      "ru": [
+        "Оценка исторических зданий",
+        "Планирование и стратегия консервации",
+        "Реставрация и сохранение материалов",
+        "Дизайн адаптивного повторного использования"
+      ]
+    }
+  },
+  {
+    "icon": "puzzle",
+    "title": { "hy": "Building", "en": "Building", "ru": "Строительство" },
+    "description": {
+      "hy": "When the design concepts have been decided, the architect prepares working drawings and specifications.",
+      "en": "When the design concepts have been decided, the architect prepares working drawings and specifications.",
+      "ru": "Когда концепция дизайна утверждена, архитектор готовит рабочие чертежи и спецификации."
+    },
+    "features": {
+      "hy": [
+        "Working drawings and construction documents",
+        "Technical specifications and detailing",
+        "Construction administration",
+        "Quality assurance and site observation"
+      ],
+      "en": [
+        "Working drawings and construction documents",
+        "Technical specifications and detailing",
+        "Construction administration",
+        "Quality assurance and site observation"
+      ],
+      "ru": [
+        "Рабочие чертежи и строительная документация",
+        "Технические спецификации и детализация",
+        "Управление строительством",
+        "Контроль качества и наблюдение на объекте"
+      ]
+    }
+  },
+  {
+    "icon": "message-circle",
+    "title": { "hy": "Consultation", "en": "Consultation", "ru": "Консультация" },
+    "description": {
+      "hy": "Our architect will consult with you and advise you during construction process.",
+      "en": "Our architect will consult with you and advise you during construction process.",
+      "ru": "Наш архитектор проконсультирует вас и будет давать рекомендации в процессе строительства."
+    },
+    "features": {
+      "hy": [
+        "Architect guidance during construction",
+        "Design peer review and evaluation",
+        "Feasibility and site assessment",
+        "Stakeholder workshops and visioning"
+      ],
+      "en": [
+        "Architect guidance during construction",
+        "Design peer review and evaluation",
+        "Feasibility and site assessment",
+        "Stakeholder workshops and visioning"
+      ],
+      "ru": [
+        "Архитектурное сопровождение строительства",
+        "Экспертная оценка и рецензирование проекта",
+        "Оценка реализуемости и анализ участка",
+        "Семинары и разработка видения с участниками"
+      ]
+    }
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Tigran Ghajoyan",
+    "role": { "hy": "Architect", "en": "Architect", "ru": "Архитектор" },
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&q=80",
+    "bio": {
+      "hy": "Tigran leads the architectural vision of The Drawing Company, bringing a deep understanding of form, context, and construction to every project.",
+      "en": "Tigran leads the architectural vision of The Drawing Company, bringing a deep understanding of form, context, and construction to every project.",
+      "ru": "Тигран руководит архитектурным видением The Drawing Company, привнося глубокое понимание формы, контекста и строительства в каждый проект."
+    }
+  },
+  {
+    "name": "Diana Hakhinyan",
+    "role": { "hy": "Interior Designer", "en": "Interior Designer", "ru": "Дизайнер интерьеров" },
+    "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&q=80",
+    "bio": {
+      "hy": "Diana shapes interior environments that balance aesthetics with functionality, curating material palettes and furnishings that bring spaces to life.",
+      "en": "Diana shapes interior environments that balance aesthetics with functionality, curating material palettes and furnishings that bring spaces to life.",
+      "ru": "Диана создаёт интерьерные решения, в которых эстетика и функциональность находятся в балансе, подбирая палитры материалов и мебели, оживляющие пространства."
+    }
+  },
+  {
+    "name": "Sargis Marukhyan",
+    "role": { "hy": "Construction Manager", "en": "Construction Manager", "ru": "Менеджер строительства" },
+    "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&q=80",
+    "bio": {
+      "hy": "Sargis oversees construction operations, ensuring projects are delivered on time, within budget, and to the highest quality standards.",
+      "en": "Sargis oversees construction operations, ensuring projects are delivered on time, within budget, and to the highest quality standards.",
+      "ru": "Саргис курирует строительные операции, обеспечивая сдачу проектов в срок, в рамках бюджета и с соблюдением высочайших стандартов качества."
+    }
+  },
+  {
+    "name": "Grisha Sahinyan",
+    "role": { "hy": "Architectural Technician", "en": "Architectural Technician", "ru": "Архитектурный техник" },
+    "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&q=80",
+    "bio": {
+      "hy": "Grisha translates design concepts into precise technical drawings and specifications, bridging the gap between vision and buildability.",
+      "en": "Grisha translates design concepts into precise technical drawings and specifications, bridging the gap between vision and buildability.",
+      "ru": "Гриша переводит дизайнерские концепции в точные технические чертежи и спецификации, связывая видение с возможностью реализации."
+    }
+  },
+  {
+    "name": "Mane Vasilyan",
+    "role": { "hy": "Interior Designer", "en": "Interior Designer", "ru": "Дизайнер интерьеров" },
+    "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&q=80",
+    "bio": {
+      "hy": "Mane specializes in creating harmonious interior spaces, with a keen eye for detail and a passion for furniture consultation and spatial design.",
+      "en": "Mane specializes in creating harmonious interior spaces, with a keen eye for detail and a passion for furniture consultation and spatial design.",
+      "ru": "Мане специализируется на создании гармоничных интерьерных пространств, обладая острым вниманием к деталям и страстью к мебельным решениям и пространственному дизайну."
+    }
+  },
+  {
+    "name": "Boris Sargsyan",
+    "role": { "hy": "Civil Engineer", "en": "Civil Engineer", "ru": "Инженер-строитель" },
+    "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&q=80",
+    "bio": {
+      "hy": "Boris brings structural expertise and engineering precision to the team, ensuring every design is safe, sound, and efficiently realized.",
+      "en": "Boris brings structural expertise and engineering precision to the team, ensuring every design is safe, sound, and efficiently realized.",
+      "ru": "Борис привносит в команду конструктивную экспертизу и инженерную точность, обеспечивая безопасность, надёжность и эффективную реализацию каждого проекта."
+    }
+  }
+]

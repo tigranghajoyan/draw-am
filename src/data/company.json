@@ -1,0 +1,16 @@
+{
+  "address": {
+    "street": "10/1 Davit Anhaght st",
+    "city": "Yerevan, Armenia"
+  },
+  "phone": "+374 77727210",
+  "email": "info@draw.am",
+  "hours": {
+    "hy": "Երկ-Ուրբ: 09:00 - 18:00",
+    "en": "Mon–Fri: 09:00 – 18:00",
+    "ru": "Пн–Пт: 09:00 – 18:00"
+  },
+  "socialLinks": [
+    { "platform": "instagram", "url": "https://instagram.com/thedrawco", "label": "Instagram" }
+  ]
+}

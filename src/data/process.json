@@ -1,0 +1,56 @@
+[
+  {
+    "number": 1,
+    "title": { "hy": "Discovery", "en": "Discovery", "ru": "Исследование" },
+    "description": {
+      "hy": "We begin every engagement by listening—understanding your aspirations, constraints, site conditions, and the broader context in which the project will live. This phase establishes the strategic foundation that guides all design decisions to come.",
+      "en": "We begin every engagement by listening—understanding your aspirations, constraints, site conditions, and the broader context in which the project will live. This phase establishes the strategic foundation that guides all design decisions to come.",
+      "ru": "Каждое сотрудничество мы начинаем с того, что слушаем — изучаем ваши стремления, ограничения, условия участка и более широкий контекст, в котором будет существовать проект. Этот этап закладывает стратегическую основу для всех последующих проектных решений."
+    }
+  },
+  {
+    "number": 2,
+    "title": { "hy": "Concept Design", "en": "Concept Design", "ru": "Концепция" },
+    "description": {
+      "hy": "With a clear brief in hand, we explore multiple design directions through sketches, physical models, and digital studies. The goal is to identify a compelling architectural idea that unites program, site, and narrative into a coherent vision.",
+      "en": "With a clear brief in hand, we explore multiple design directions through sketches, physical models, and digital studies. The goal is to identify a compelling architectural idea that unites program, site, and narrative into a coherent vision.",
+      "ru": "С чётким техническим заданием на руках мы исследуем несколько проектных направлений через эскизы, физические модели и цифровые исследования. Цель — найти убедительную архитектурную идею, объединяющую программу, участок и нарратив в единое видение."
+    }
+  },
+  {
+    "number": 3,
+    "title": { "hy": "Design Development", "en": "Design Development", "ru": "Разработка проекта" },
+    "description": {
+      "hy": "The chosen concept is refined and resolved at increasing levels of detail, from structural systems and material selections to mechanical coordination and envelope performance. We work closely with engineers and consultants to ensure every element is integrated and buildable.",
+      "en": "The chosen concept is refined and resolved at increasing levels of detail, from structural systems and material selections to mechanical coordination and envelope performance. We work closely with engineers and consultants to ensure every element is integrated and buildable.",
+      "ru": "Выбранная концепция уточняется и прорабатывается с возрастающей степенью детализации — от конструктивных систем и подбора материалов до координации инженерных систем и характеристик ограждающих конструкций. Мы тесно сотрудничаем с инженерами и консультантами, чтобы каждый элемент был интегрирован и реализуем."
+    }
+  },
+  {
+    "number": 4,
+    "title": { "hy": "Documentation", "en": "Documentation", "ru": "Документация" },
+    "description": {
+      "hy": "We produce comprehensive construction documents—drawings, specifications, and schedules—that translate the design into precise instructions for builders. Clarity and thoroughness at this stage are essential to controlling cost and quality on site.",
+      "en": "We produce comprehensive construction documents—drawings, specifications, and schedules—that translate the design into precise instructions for builders. Clarity and thoroughness at this stage are essential to controlling cost and quality on site.",
+      "ru": "Мы подготавливаем полный комплект строительной документации — чертежи, спецификации и графики, — которые переводят проект в точные инструкции для строителей. Ясность и тщательность на этом этапе необходимы для контроля стоимости и качества на площадке."
+    }
+  },
+  {
+    "number": 5,
+    "title": { "hy": "Construction", "en": "Construction", "ru": "Строительство" },
+    "description": {
+      "hy": "During construction we remain actively involved, conducting regular site visits, reviewing submittals, and responding to field conditions to protect the integrity of the design. Close collaboration with contractors ensures that the built reality matches the drawn intent.",
+      "en": "During construction we remain actively involved, conducting regular site visits, reviewing submittals, and responding to field conditions to protect the integrity of the design. Close collaboration with contractors ensures that the built reality matches the drawn intent.",
+      "ru": "В ходе строительства мы остаёмся активно вовлечены: проводим регулярные инспекции, проверяем образцы и реагируем на условия на площадке для защиты целостности проекта. Тесное сотрудничество с подрядчиками гарантирует, что построенная реальность соответствует проектному замыслу."
+    }
+  },
+  {
+    "number": 6,
+    "title": { "hy": "Completion", "en": "Completion", "ru": "Завершение" },
+    "description": {
+      "hy": "We guide the project through final inspections, punchlist resolution, and handover to the client, ensuring every detail meets our standards. Post-occupancy evaluations allow us to learn from each building and carry those insights forward into future work.",
+      "en": "We guide the project through final inspections, punchlist resolution, and handover to the client, ensuring every detail meets our standards. Post-occupancy evaluations allow us to learn from each building and carry those insights forward into future work.",
+      "ru": "Мы сопровождаем проект через финальные инспекции, устранение замечаний и передачу клиенту, обеспечивая соответствие каждой детали нашим стандартам. Постэксплуатационная оценка позволяет извлечь уроки из каждого здания и применить полученный опыт в будущих работах."
+    }
+  }
+]

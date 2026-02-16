@@ -1,0 +1,10 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=1920&q=80",
+  "philosophyImage": "https://images.unsplash.com/photo-1487958449943-2429e8be8625?w=800&q=80",
+  "stats": [
+    { "value": 57, "key": "about.stats.projects" },
+    { "value": 38, "key": "about.stats.clients" },
+    { "value": 13950, "key": "about.stats.hours" },
+    { "value": 6, "key": "about.stats.years" }
+  ]
+}
