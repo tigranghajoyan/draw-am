@@ -1,4 +1,4 @@
-import { useState, useCallback, useRef, useEffect } from 'react';
+import { useState, useCallback, useRef, useEffect, useMemo } from 'react';
 import LocaleLink from '@/components/ui/LocaleLink';
 import { useT } from '@/i18n/context';
 import PageHero from '@/components/ui/PageHero';
@@ -10,7 +10,7 @@ import CalculatorSummary from '@/components/calculator/CalculatorSummary';
 import { calculatorCategories, quantityRules, packageDefinitions } from '@/data/calculator';
 import { pages } from '@/data/pages';
 import { DEFAULT_APARTMENT } from '@/utils/calculatorDefaults';
-import type { CalculatorItemState, ApartmentDetails, PackageType, PackageDefinition } from '@/types';
+import type { CalculatorItemState, ApartmentDetails, PackageType, PackageDefinition, ServiceType } from '@/types';
 
 function computePackageStates(
   details: ApartmentDetails,
@@ -38,10 +38,16 @@ function computePackageStates(
 
 export default function CalculatorPage() {
   const t = useT();
+  const [serviceType, setServiceType] = useState<ServiceType>('interior');
   const [itemStates, setItemStates] = useState<Record<string, CalculatorItemState>>({});
   const [apartmentDetails, setApartmentDetails] = useState<ApartmentDetails>(DEFAULT_APARTMENT);
   const [selectedPackage, setSelectedPackage] = useState<PackageType | null>(null);
   const [designCostOverride, setDesignCostOverride] = useState<number | null>(null);
+
+  const filteredCategories = useMemo(
+    () => calculatorCategories.filter((c) => c.serviceType === serviceType),
+    [serviceType],
+  );
 
   const currentPkg: PackageDefinition | undefined = selectedPackage
     ? packageDefinitions.find((p) => p.id === selectedPackage)
@@ -52,6 +58,11 @@ export default function CalculatorPage() {
   const [expandedCategories, setExpandedCategories] = useState<Set<string>>(
     () => new Set(calculatorCategories.map((c) => c.id)),
   );
+
+  // Reset expanded categories when service type changes
+  useEffect(() => {
+    setExpandedCategories(new Set(filteredCategories.map((c) => c.id)));
+  }, [serviceType, filteredCategories]);
 
   const handleToggleCategory = useCallback((categoryId: string) => {
     setExpandedCategories((prev) => {
@@ -96,6 +107,7 @@ export default function CalculatorPage() {
     setApartmentDetails(DEFAULT_APARTMENT);
     setSelectedPackage(null);
     setDesignCostOverride(null);
+    setServiceType('interior');
   }, []);
 
   const ctaRef = useRef<HTMLElement>(null);
@@ -120,17 +132,53 @@ export default function CalculatorPage() {
         backgroundImage={pages.calculator.heroImage}
       />
 
-      {/* Intro Section */}
-      <section className="bg-white py-20 px-6">
+      {/* Service Type Toggle */}
+      <section className="bg-white pt-20 pb-4 px-6">
         <div className="max-w-6xl mx-auto">
           <ScrollReveal>
             <SectionHeading
-              label={t('calculator.intro.label')}
-              title={t('calculator.intro.title')}
+              label={t('calculator.serviceType.label')}
+              title={t('calculator.serviceType.title')}
               centered
             />
-            <p className="mt-6 text-charcoal leading-relaxed text-center max-w-3xl mx-auto">
-              {t('calculator.intro.body')}
+            <div className="flex justify-center mt-8">
+              <div className="inline-flex border border-gray-200 overflow-hidden">
+                <button
+                  type="button"
+                  onClick={() => setServiceType('architectural')}
+                  className={`px-6 sm:px-10 py-3 sm:py-4 font-heading text-xs sm:text-sm uppercase tracking-wider transition-all cursor-pointer ${
+                    serviceType === 'architectural'
+                      ? 'bg-charcoal-darker text-white'
+                      : 'bg-white text-charcoal hover:bg-gray-50'
+                  }`}
+                >
+                  {t('calculator.serviceType.architectural')}
+                </button>
+                <button
+                  type="button"
+                  onClick={() => setServiceType('interior')}
+                  className={`px-6 sm:px-10 py-3 sm:py-4 font-heading text-xs sm:text-sm uppercase tracking-wider transition-all cursor-pointer ${
+                    serviceType === 'interior'
+                      ? 'bg-charcoal-darker text-white'
+                      : 'bg-white text-charcoal hover:bg-gray-50'
+                  }`}
+                >
+                  {t('calculator.serviceType.interior')}
+                </button>
+              </div>
+            </div>
+          </ScrollReveal>
+        </div>
+      </section>
+
+      {/* Intro Section */}
+      <section className="bg-white py-12 px-6">
+        <div className="max-w-6xl mx-auto">
+          <ScrollReveal>
+            <p className="text-charcoal leading-relaxed text-center max-w-3xl mx-auto">
+              {serviceType === 'architectural'
+                ? t('calculator.intro.bodyArch')
+                : t('calculator.intro.body')}
             </p>
           </ScrollReveal>
         </div>
@@ -149,7 +197,7 @@ export default function CalculatorPage() {
       {/* Calculator Sections */}
       <section className="bg-offwhite py-12 px-6">
         <div className="max-w-6xl mx-auto space-y-3">
-          {calculatorCategories.map((category) => (
+          {filteredCategories.map((category) => (
             <CalculatorCategorySection
               key={category.id}
               category={category}
@@ -164,7 +212,7 @@ export default function CalculatorPage() {
 
       {/* Summary */}
       <CalculatorSummary
-        categories={calculatorCategories}
+        categories={filteredCategories}
         itemStates={itemStates}
         designTotal={designTotal}
         onReset={handleReset}

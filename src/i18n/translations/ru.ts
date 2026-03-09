@@ -100,8 +100,13 @@ export const ru: Record<string, string> = {
   'project.related.similar': 'Похожий проект',
 
   // Calculator Page
-  'calculator.hero.title': 'Калькулятор ремонта',
+  'calculator.hero.title': 'Калькулятор проекта',
   'calculator.hero.subtitle': 'Рассчитайте стоимость вашего проекта',
+  'calculator.intro.bodyArch': 'Оцените стоимость услуг архитектурного проектирования. От концептуальных эскизов и технических чертежей до разрешений на строительство и авторского надзора — получите чёткое представление о затратах.',
+  'calculator.serviceType.interior': 'Дизайн интерьера и ремонт',
+  'calculator.serviceType.architectural': 'Архитектурное проектирование',
+  'calculator.serviceType.title': 'Что вам нужно?',
+  'calculator.serviceType.label': 'ВЫБЕРИТЕ УСЛУГУ',
   'calculator.intro.label': 'РАСЧЁТ',
   'calculator.intro.title': 'Спланируйте бюджет ремонта',
   'calculator.intro.body': 'Используйте наш интерактивный калькулятор для предварительной оценки стоимости ремонта. Начните с ввода параметров квартиры, выберите пакет или полностью настройте всё самостоятельно с опцией «Индивидуальный».',

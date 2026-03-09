@@ -2,7 +2,7 @@
   {
     "name": "Tigran Ghajoyan",
     "role": { "hy": "Architect", "en": "Architect", "ru": "Архитектор" },
-    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&q=80",
+    "image": "/images/team/tigran-ghajoyan.png",
     "bio": {
       "hy": "Tigran leads the architectural vision of The Drawing Company, bringing a deep understanding of form, context, and construction to every project.",
       "en": "Tigran leads the architectural vision of The Drawing Company, bringing a deep understanding of form, context, and construction to every project.",
@@ -12,7 +12,7 @@
   {
     "name": "Diana Hakhinyan",
     "role": { "hy": "Interior Designer", "en": "Interior Designer", "ru": "Дизайнер интерьеров" },
-    "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&q=80",
+    "image": "/images/team/diana-hakhinyan.png",
     "bio": {
       "hy": "Diana shapes interior environments that balance aesthetics with functionality, curating material palettes and furnishings that bring spaces to life.",
       "en": "Diana shapes interior environments that balance aesthetics with functionality, curating material palettes and furnishings that bring spaces to life.",
@@ -22,7 +22,7 @@
   {
     "name": "Sargis Marukhyan",
     "role": { "hy": "Construction Manager", "en": "Construction Manager", "ru": "Менеджер строительства" },
-    "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&q=80",
+    "image": "/images/team/sargis-marukhyan.png",
     "bio": {
       "hy": "Sargis oversees construction operations, ensuring projects are delivered on time, within budget, and to the highest quality standards.",
       "en": "Sargis oversees construction operations, ensuring projects are delivered on time, within budget, and to the highest quality standards.",
@@ -32,7 +32,7 @@
   {
     "name": "Grisha Sahinyan",
     "role": { "hy": "Architectural Technician", "en": "Architectural Technician", "ru": "Архитектурный техник" },
-    "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&q=80",
+    "image": "/images/team/grisha-sahinyan.png",
     "bio": {
       "hy": "Grisha translates design concepts into precise technical drawings and specifications, bridging the gap between vision and buildability.",
       "en": "Grisha translates design concepts into precise technical drawings and specifications, bridging the gap between vision and buildability.",
@@ -42,7 +42,7 @@
   {
     "name": "Mane Vasilyan",
     "role": { "hy": "Interior Designer", "en": "Interior Designer", "ru": "Дизайнер интерьеров" },
-    "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&q=80",
+    "image": "/images/team/mane-vasilyan.png",
     "bio": {
       "hy": "Mane specializes in creating harmonious interior spaces, with a keen eye for detail and a passion for furniture consultation and spatial design.",
       "en": "Mane specializes in creating harmonious interior spaces, with a keen eye for detail and a passion for furniture consultation and spatial design.",
@@ -52,7 +52,7 @@
   {
     "name": "Boris Sargsyan",
     "role": { "hy": "Civil Engineer", "en": "Civil Engineer", "ru": "Инженер-строитель" },
-    "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&q=80",
+    "image": "/images/team/boris-sargsyan.png",
     "bio": {
       "hy": "Boris brings structural expertise and engineering precision to the team, ensuring every design is safe, sound, and efficiently realized.",
       "en": "Boris brings structural expertise and engineering precision to the team, ensuring every design is safe, sound, and efficiently realized.",

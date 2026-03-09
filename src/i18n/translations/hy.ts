@@ -101,8 +101,13 @@ export const hy: Record<string, string> = {
     'project.related.similar': 'Նման գրառում',
 
     // Calculator Page
-    'calculator.hero.title': 'Վերանորոգման հաշվիչ',
+    'calculator.hero.title': 'Նախագծի հաdelays',
     'calculator.hero.subtitle': 'Գնահատեք ձեր նախագծի արժեքը',
+  'calculator.intro.bodyArch': 'Gdelays delays delaysdelays ness delays delaysdelays delaysdelays delaysdelays delays delaysdelays delaysdelays delays delaysdelays delays delaysdelays delays delaysdelays delaysdelays delaysdelays delaysdelays delays delaysdelays delaysdelays delaysdelays delaysdelays',
+  'calculator.serviceType.interior': 'delaysdelays delaysdelays & delaysdelays',
+  'calculator.serviceType.architectural': 'ness delays delaysdelays',
+  'calculator.serviceType.title': 'Ի ness delays delaysdelays?',
+  'calculator.serviceType.label': 'ԸDelays ness',
     'calculator.intro.label': 'ԳՆԱՀԱՏՈՒՄ',
     'calculator.intro.title': 'Պլանավորեք ձեր վերանորոգման բյուջեն',
     'calculator.intro.body': 'Օգտվեք մեր ինտերակտիվ հաշվիչից՝ ձեր վերանորոգման նախագծի նախնական արժեքը գնահատելու համար։ Սկսեք մուտքագրելով բնակարանի տվյալները, ընտրեք փաթեթ կամ կազմեք ամբողջովին անհատական տարբերակ Individual ընտրությամբ։',

@@ -6,6 +6,29 @@ export const packageDefinitions: PackageDefinition[] = data.packages as PackageD
 
 // Quantity derivation rules: how each item's quantity is computed from apartment details
 export const quantityRules: Record<string, (d: ApartmentDetails) => number> = {
+  // Architectural — Concept Design
+  'arch-site-analysis': () => 1,
+  'arch-concept-sketches': () => 1,
+  'arch-3d-visualization': (d) => d.rooms + 2, // exterior + key rooms
+  'arch-master-plan': () => 1,
+
+  // Architectural — Technical Drawings
+  'arch-floor-plans': (d) => Math.max(1, Math.ceil(d.area / 120)), // 1 per floor ~120m²
+  'arch-elevations': () => 4,
+  'arch-sections': () => 2,
+  'arch-structural-drawings': (d) => Math.max(1, Math.ceil(d.area / 120)),
+  'arch-mep-drawings': (d) => Math.max(1, Math.ceil(d.area / 120)),
+
+  // Architectural — Construction Documents
+  'arch-construction-details': (d) => Math.round(d.rooms * 3 + d.bathrooms * 2),
+  'arch-specifications': () => 1,
+  'arch-bill-of-quantities': () => 1,
+
+  // Architectural — Permits & Supervision
+  'arch-building-permit': () => 1,
+  'arch-author-supervision': (d) => d.area,
+  'arch-site-visits': (d) => Math.round(d.area / 10), // roughly 1 visit per 10m²
+
   // Ceiling
   'ceiling-plasterboard': (d) => d.area,
   'ceiling-plastering-painting': (d) => d.area,

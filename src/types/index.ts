@@ -57,10 +57,13 @@ export interface CalculatorWorkItem {
   image: string;
 }
 
+export type ServiceType = 'architectural' | 'interior';
+
 export interface CalculatorCategory {
   id: string;
   name: L;
   icon: string;
+  serviceType: ServiceType;
   items: CalculatorWorkItem[];
 }
 

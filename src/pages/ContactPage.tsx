@@ -168,12 +168,21 @@ export default function ContactPage() {
         </div>
       </section>
 
-      {/* Map Placeholder */}
+      {/* Map Section */}
       <section className="bg-offwhite py-20 px-6">
-        <div className="bg-charcoal/10 h-80 flex items-center justify-center">
-          <p className="text-charcoal/40 font-heading uppercase tracking-wider">
-            {t('contact.map')}
-          </p>
+        <div className="max-w-6xl mx-auto">
+          <div className="w-full h-80 md:h-[450px] overflow-hidden">
+            <iframe
+              title="The Drawing Company Office Location"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3048.0!2d44.5130!3d40.1810!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2s10%2F1+Davit+Anhaght+St%2C+Yerevan%2C+Armenia!5e0!3m2!1sen!2sam!4v1700000000000"
+              width="100%"
+              height="100%"
+              style={{ border: 0 }}
+              allowFullScreen
+              loading="lazy"
+              referrerPolicy="no-referrer-when-downgrade"
+            />
+          </div>
         </div>
       </section>
     </>

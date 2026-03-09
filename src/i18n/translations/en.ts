@@ -100,11 +100,16 @@ export const en: Record<string, string> = {
   'project.related.similar': 'Similar post',
 
   // Calculator Page
-  'calculator.hero.title': 'Renovation Calculator',
+  'calculator.hero.title': 'Project Calculator',
   'calculator.hero.subtitle': 'Estimate Your Project Cost',
+  'calculator.serviceType.label': 'SELECT SERVICE',
+  'calculator.serviceType.title': 'What Do You Need?',
+  'calculator.serviceType.architectural': 'Architectural Design',
+  'calculator.serviceType.interior': 'Interior Design & Renovation',
   'calculator.intro.label': 'ESTIMATE',
   'calculator.intro.title': 'Plan Your Renovation Budget',
   'calculator.intro.body': 'Use our interactive calculator to get a preliminary cost estimate for your renovation project. Start by entering your apartment details, choose a package, or go fully custom with the Individual option.',
+  'calculator.intro.bodyArch': 'Estimate the cost of architectural design services for your project. From concept sketches and technical drawings to building permits and site supervision — get a clear picture of what to expect.',
   'calculator.step1.label': 'STEP 1',
   'calculator.step1.title': 'Your Apartment',
   'calculator.area': 'Area',

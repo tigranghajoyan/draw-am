@@ -3,10 +3,10 @@
     "heroImage": "https://images.unsplash.com/photo-1487958449943-2429e8be8625?w=1920&q=80"
   },
   "services": {
-    "heroImage": "https://images.unsplash.com/photo-1504297050568-910d24c426d3?w=1920&q=80"
+    "heroImage": "/images/services-hero.png"
   },
   "contact": {
-    "heroImage": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1920&q=80"
+    "heroImage": "/images/contact-hero.png"
   },
   "calculator": {
     "heroImage": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=1920&q=80"

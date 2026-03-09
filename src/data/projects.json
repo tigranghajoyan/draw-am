@@ -1,13 +1,100 @@
 [
   {
+    "slug": "apartment-at-nazarbekyan-st",
+    "title": "Apartment at Nazarbekyan st",
+    "location": "Yerevan, Armenia",
+    "year": 2022,
+    "category": {
+      "hy": "Residential",
+      "en": "Residential",
+      "ru": "Жилой"
+    },
+    "subcategory": {
+      "hy": "Interior",
+      "en": "Interior",
+      "ru": "Интерьер"
+    },
+    "visualization": "Nairi Arshakyan",
+    "status": {
+      "hy": "Completed",
+      "en": "Completed",
+      "ru": "Завершён"
+    },
+    "description": {
+      "hy": "A sophisticated residential interior with warm minimalist aesthetics, featuring elegant living spaces, a cozy bedroom, a functional home office, and a refined bathroom.",
+      "en": "A sophisticated residential interior with warm minimalist aesthetics, featuring elegant living spaces, a cozy bedroom, a functional home office, and a refined bathroom.",
+      "ru": "Утончённый жилой интерьер в стиле тёплого минимализма с элегантными жилыми зонами, уютной спальней, функциональным домашним кабинетом и изысканной ванной комнатой."
+    },
+    "fullDescription": {
+      "hy": "This apartment on Nazarbekyan street in Yerevan showcases a masterfully designed interior that embodies warm minimalism. The living room features a rich material palette with natural textures, soft lighting, and carefully curated furniture. The bedroom balances comfort with refined aesthetics, while the home office provides a productive yet stylish workspace. The bathroom design completes the experience with premium fixtures and timeless finishes. Visualization by Nairi Arshakyan.",
+      "en": "This apartment on Nazarbekyan street in Yerevan showcases a masterfully designed interior that embodies warm minimalism. The living room features a rich material palette with natural textures, soft lighting, and carefully curated furniture. The bedroom balances comfort with refined aesthetics, while the home office provides a productive yet stylish workspace. The bathroom design completes the experience with premium fixtures and timeless finishes. Visualization by Nairi Arshakyan.",
+      "ru": "Квартира на улице Назарбекяна в Ереване демонстрирует мастерски спроектированный интерьер в стиле тёплого минимализма. Гостиная отличается богатой палитрой материалов с натуральными текстурами, мягким освещением и тщательно подобранной мебелью. Спальня сочетает комфорт с утончённой эстетикой, а домашний кабинет предоставляет продуктивное и стильное рабочее пространство. Ванная комната завершает впечатление премиальной сантехникой и вневременной отделкой. Визуализация Наири Аршакяна."
+    },
+    "image": "https://draw.am/wp-content/uploads/2026/02/Nare-living-room-02-11.jpg",
+    "gallery": [
+      "https://draw.am/wp-content/uploads/2026/02/Nare-living-room-02-1.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-living-room-02-4.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-living-room-02-10.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-living-room-02-8.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-living-room-02-16.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-living-room-02-14.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-living-room-02-11.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-living-room-02-21.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-living-room-02-27.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-living-room-02-12.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-living-room-02-24.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-living-room-02-23.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-living-room-02-18.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-living-room-02-7.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-living-room-02-20.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-living-room-02-26.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-living-room-02-28.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-badroom-02-9.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-badroom-02-4.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-badroom-02-5.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-badroom-02-6.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-badroom-02-10.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-badroom-02-11.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-Office-001-1.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-Office-001-2.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-Office-001-6.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-Office-001-3.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-Office-001-5.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-Office-001-7.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-Office-001-10.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/NAre-Bathroom-002-1.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/NAre-Bathroom-002-3.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/NAre-Bathroom-002-4.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/NAre-Bathroom-002-5.jpg"
+    ],
+    "client": {
+      "hy": "Private Client",
+      "en": "Private Client",
+      "ru": "Частный клиент"
+    },
+    "area": "90 m²"
+  },
+  {
     "slug": "apartment-at-aram-khachatryan-st",
     "title": "Apartment at Aram Khachatryan st",
     "location": "Yerevan, Armenia",
     "year": 2024,
-    "category": { "hy": "Residential", "en": "Residential", "ru": "Жилой" },
-    "subcategory": { "hy": "Interior", "en": "Interior", "ru": "Интерьер" },
+    "category": {
+      "hy": "Residential",
+      "en": "Residential",
+      "ru": "Жилой"
+    },
+    "subcategory": {
+      "hy": "Interior",
+      "en": "Interior",
+      "ru": "Интерьер"
+    },
     "visualization": "Diana Hakhinyan",
-    "status": { "hy": "Completed", "en": "Completed", "ru": "Завершён" },
+    "status": {
+      "hy": "Completed",
+      "en": "Completed",
+      "ru": "Завершён"
+    },
     "description": {
       "hy": "A modern residential interior designed with a refined material palette, blending contemporary aesthetics with comfortable living spaces.",
       "en": "A modern residential interior designed with a refined material palette, blending contemporary aesthetics with comfortable living spaces.",
@@ -18,7 +105,7 @@
       "en": "This apartment on Aram Khachatryan street in Yerevan showcases a thoughtfully designed residential interior that balances modern aesthetics with everyday comfort. The design employs a refined material palette and careful attention to lighting, creating spaces that feel both sophisticated and inviting.",
       "ru": "Квартира на улице Арама Хачатуряна в Ереване демонстрирует продуманный жилой интерьер, в котором современная эстетика сочетается с повседневным комфортом. Дизайн использует изысканную палитру материалов и тщательно продуманное освещение, создавая пространства, которые выглядят одновременно утончённо и уютно. Визуализация Дианы Хахинян."
     },
-    "image": "https://draw.am/wp-content/uploads/2026/02/360000.jpg",
+    "image": "/images/projects/aram-khachatryan/living-sofa-front.jpg",
     "gallery": [
       "https://draw.am/wp-content/uploads/2026/02/360000.jpg",
       "https://draw.am/wp-content/uploads/2026/02/410000.jpg",
@@ -30,9 +117,31 @@
       "https://draw.am/wp-content/uploads/2026/02/110000.jpg",
       "https://draw.am/wp-content/uploads/2026/02/180000.jpg",
       "https://draw.am/wp-content/uploads/2026/02/90000.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/2000052616.jpg"
+      "https://draw.am/wp-content/uploads/2026/02/2000052616.jpg",
+      "/images/projects/aram-khachatryan/living-sofa-front.jpg",
+      "/images/projects/aram-khachatryan/living-sofa-side.jpg",
+      "/images/projects/aram-khachatryan/living-detail.jpg",
+      "/images/projects/aram-khachatryan/living-table-detail.jpg",
+      "/images/projects/aram-khachatryan/living-tv-wall.jpg",
+      "/images/projects/aram-khachatryan/workspace-full.jpg",
+      "/images/projects/aram-khachatryan/workspace-detail.jpg",
+      "/images/projects/aram-khachatryan/bedroom-front.jpg",
+      "/images/projects/aram-khachatryan/bedroom-wide.jpg",
+      "/images/projects/aram-khachatryan/bedroom-wall.jpg",
+      "/images/projects/aram-khachatryan/bedroom-detail.jpg",
+      "/images/projects/aram-khachatryan/bedroom-vanity.jpg",
+      "/images/projects/aram-khachatryan/bedroom-desk-detail.jpg",
+      "/images/projects/aram-khachatryan/bedroom-full.jpg",
+      "/images/projects/aram-khachatryan/balcony.jpg",
+      "/images/projects/aram-khachatryan/bathroom-tub.jpg",
+      "/images/projects/aram-khachatryan/bathroom-shower.jpg",
+      "/images/projects/aram-khachatryan/bathroom-full.jpg"
     ],
-    "client": { "hy": "Private Client", "en": "Private Client", "ru": "Частный клиент" },
+    "client": {
+      "hy": "Private Client",
+      "en": "Private Client",
+      "ru": "Частный клиент"
+    },
     "area": "120 m²"
   },
   {
@@ -40,10 +149,22 @@
     "title": "Apartment at Monte Melkonyan st",
     "location": "Yerevan, Armenia",
     "year": 2024,
-    "category": { "hy": "Residential", "en": "Residential", "ru": "Жилой" },
-    "subcategory": { "hy": "Interior", "en": "Interior", "ru": "Интерьер" },
+    "category": {
+      "hy": "Residential",
+      "en": "Residential",
+      "ru": "Жилой"
+    },
+    "subcategory": {
+      "hy": "Interior",
+      "en": "Interior",
+      "ru": "Интерьер"
+    },
     "visualization": "Diana Hakhinyan",
-    "status": { "hy": "Completed", "en": "Completed", "ru": "Завершён" },
+    "status": {
+      "hy": "Completed",
+      "en": "Completed",
+      "ru": "Завершён"
+    },
     "description": {
       "hy": "A comprehensive residential interior featuring distinct living room, bedroom, workspace, and bathroom zones with cohesive design language.",
       "en": "A comprehensive residential interior featuring distinct living room, bedroom, workspace, and bathroom zones with cohesive design language.",
@@ -94,7 +215,11 @@
       "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-bath-10.jpg",
       "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-bath-11.jpg"
     ],
-    "client": { "hy": "Private Client", "en": "Private Client", "ru": "Частный клиент" },
+    "client": {
+      "hy": "Private Client",
+      "en": "Private Client",
+      "ru": "Частный клиент"
+    },
     "area": "85 m²"
   },
   {
@@ -102,10 +227,22 @@
     "title": "Apartment at Davit Anhaght st",
     "location": "Yerevan, Armenia",
     "year": 2024,
-    "category": { "hy": "Residential", "en": "Residential", "ru": "Жилой" },
-    "subcategory": { "hy": "Interior", "en": "Interior", "ru": "Интерьер" },
+    "category": {
+      "hy": "Residential",
+      "en": "Residential",
+      "ru": "Жилой"
+    },
+    "subcategory": {
+      "hy": "Interior",
+      "en": "Interior",
+      "ru": "Интерьер"
+    },
     "visualization": "Diana Hakhinyan",
-    "status": { "hy": "Completed", "en": "Completed", "ru": "Завершён" },
+    "status": {
+      "hy": "Completed",
+      "en": "Completed",
+      "ru": "Завершён"
+    },
     "description": {
       "hy": "An interior design project featuring multiple living zones with a harmonious blend of textures and spatial configurations.",
       "en": "An interior design project featuring multiple living zones with a harmonious blend of textures and spatial configurations.",
@@ -168,7 +305,11 @@
       "https://draw.am/wp-content/uploads/2026/01/4_Interactive-LightMix0000.jpg",
       "https://draw.am/wp-content/uploads/2026/01/5_Interactive-LightMix0000.jpg"
     ],
-    "client": { "hy": "Private Client", "en": "Private Client", "ru": "Частный клиент" },
+    "client": {
+      "hy": "Private Client",
+      "en": "Private Client",
+      "ru": "Частный клиент"
+    },
     "area": "150 m²"
   },
   {
@@ -176,10 +317,22 @@
     "title": "Apartment at Duryan District",
     "location": "Yerevan, Armenia",
     "year": 2024,
-    "category": { "hy": "Residential", "en": "Residential", "ru": "Жилой" },
-    "subcategory": { "hy": "Interior", "en": "Interior", "ru": "Интерьер" },
+    "category": {
+      "hy": "Residential",
+      "en": "Residential",
+      "ru": "Жилой"
+    },
+    "subcategory": {
+      "hy": "Interior",
+      "en": "Interior",
+      "ru": "Интерьер"
+    },
     "visualization": "Diana Hakhinyan",
-    "status": { "hy": "Completed", "en": "Completed", "ru": "Завершён" },
+    "status": {
+      "hy": "Completed",
+      "en": "Completed",
+      "ru": "Завершён"
+    },
     "description": {
       "hy": "A spacious apartment interior encompassing living room, bedrooms, master bathroom, and auxiliary spaces with a unified design vision.",
       "en": "A spacious apartment interior encompassing living room, bedrooms, master bathroom, and auxiliary spaces with a unified design vision.",
@@ -228,7 +381,11 @@
       "https://draw.am/wp-content/uploads/2026/01/z-1.jpg",
       "https://draw.am/wp-content/uploads/2026/01/z-4.jpg"
     ],
-    "client": { "hy": "Private Client", "en": "Private Client", "ru": "Частный клиент" },
+    "client": {
+      "hy": "Private Client",
+      "en": "Private Client",
+      "ru": "Частный клиент"
+    },
     "area": "180 m²"
   },
   {
@@ -236,10 +393,22 @@
     "title": "Sweets Store in Dubai",
     "location": "Dubai, UAE",
     "year": 2024,
-    "category": { "hy": "Commercial", "en": "Commercial", "ru": "Коммерческий" },
-    "subcategory": { "hy": "Interior", "en": "Interior", "ru": "Интерьер" },
+    "category": {
+      "hy": "Commercial",
+      "en": "Commercial",
+      "ru": "Коммерческий"
+    },
+    "subcategory": {
+      "hy": "Interior",
+      "en": "Interior",
+      "ru": "Интерьер"
+    },
     "visualization": "Arman Sahakyan",
-    "status": { "hy": "Completed", "en": "Completed", "ru": "Завершён" },
+    "status": {
+      "hy": "Completed",
+      "en": "Completed",
+      "ru": "Завершён"
+    },
     "description": {
       "hy": "A commercial interior design for a sweets store in Dubai, featuring a vibrant and inviting retail environment.",
       "en": "A commercial interior design for a sweets store in Dubai, featuring a vibrant and inviting retail environment.",
@@ -266,7 +435,11 @@
       "https://draw.am/wp-content/uploads/2026/01/110000.jpg",
       "https://draw.am/wp-content/uploads/2026/01/120000.jpg"
     ],
-    "client": { "hy": "Private Client", "en": "Private Client", "ru": "Частный клиент" },
+    "client": {
+      "hy": "Private Client",
+      "en": "Private Client",
+      "ru": "Частный клиент"
+    },
     "area": "95 m²"
   },
   {
@@ -274,10 +447,22 @@
     "title": "Cafe near the Temple of Garni",
     "location": "Garni, Armenia",
     "year": 2024,
-    "category": { "hy": "Commercial", "en": "Commercial", "ru": "Коммерческий" },
-    "subcategory": { "hy": "Interior", "en": "Interior", "ru": "Интерьер" },
+    "category": {
+      "hy": "Commercial",
+      "en": "Commercial",
+      "ru": "Коммерческий"
+    },
+    "subcategory": {
+      "hy": "Interior",
+      "en": "Interior",
+      "ru": "Интерьер"
+    },
     "visualization": "Arman Sahakyan",
-    "status": { "hy": "Completed", "en": "Completed", "ru": "Завершён" },
+    "status": {
+      "hy": "Completed",
+      "en": "Completed",
+      "ru": "Завершён"
+    },
     "description": {
       "hy": "A cafe design situated near the historic Temple of Garni, blending contemporary commercial interiors with the surrounding cultural landscape.",
       "en": "A cafe design situated near the historic Temple of Garni, blending contemporary commercial interiors with the surrounding cultural landscape.",
@@ -313,7 +498,11 @@
       "https://draw.am/wp-content/uploads/2026/01/789456-12.jpg",
       "https://draw.am/wp-content/uploads/2026/01/dsd_Interactive-LightMix0000.jpg"
     ],
-    "client": { "hy": "Private Client", "en": "Private Client", "ru": "Частный клиент" },
+    "client": {
+      "hy": "Private Client",
+      "en": "Private Client",
+      "ru": "Частный клиент"
+    },
     "area": "200 m²"
   },
   {
@@ -321,10 +510,22 @@
     "title": "Staff Cafeteria in Sewing Factory",
     "location": "Yerevan, Armenia",
     "year": 2024,
-    "category": { "hy": "Commercial", "en": "Commercial", "ru": "Коммерческий" },
-    "subcategory": { "hy": "Interior", "en": "Interior", "ru": "Интерьер" },
+    "category": {
+      "hy": "Commercial",
+      "en": "Commercial",
+      "ru": "Коммерческий"
+    },
+    "subcategory": {
+      "hy": "Interior",
+      "en": "Interior",
+      "ru": "Интерьер"
+    },
     "visualization": "Arman Sahakyan",
-    "status": { "hy": "Completed", "en": "Completed", "ru": "Завершён" },
+    "status": {
+      "hy": "Completed",
+      "en": "Completed",
+      "ru": "Завершён"
+    },
     "description": {
       "hy": "A staff cafeteria interior designed within an industrial sewing factory setting, creating a comfortable and functional dining space for workers.",
       "en": "A staff cafeteria interior designed within an industrial sewing factory setting, creating a comfortable and functional dining space for workers.",
@@ -346,7 +547,11 @@
       "https://draw.am/wp-content/uploads/2026/01/7.png",
       "https://draw.am/wp-content/uploads/2026/01/8-2.png"
     ],
-    "client": { "hy": "Private Client", "en": "Private Client", "ru": "Частный клиент" },
+    "client": {
+      "hy": "Private Client",
+      "en": "Private Client",
+      "ru": "Частный клиент"
+    },
     "area": "110 m²"
   },
   {
@@ -354,10 +559,22 @@
     "title": "Apartment at Nar Dos st",
     "location": "Yerevan, Armenia",
     "year": 2024,
-    "category": { "hy": "Residential", "en": "Residential", "ru": "Жилой" },
-    "subcategory": { "hy": "Interior", "en": "Interior", "ru": "Интерьер" },
+    "category": {
+      "hy": "Residential",
+      "en": "Residential",
+      "ru": "Жилой"
+    },
+    "subcategory": {
+      "hy": "Interior",
+      "en": "Interior",
+      "ru": "Интерьер"
+    },
     "visualization": "Diana Hakhinyan",
-    "status": { "hy": "Completed", "en": "Completed", "ru": "Завершён" },
+    "status": {
+      "hy": "Completed",
+      "en": "Completed",
+      "ru": "Завершён"
+    },
     "description": {
       "hy": "A residential interior on Nar Dos street featuring a clean, contemporary design language across all living spaces.",
       "en": "A residential interior on Nar Dos street featuring a clean, contemporary design language across all living spaces.",
@@ -385,7 +602,11 @@
       "https://draw.am/wp-content/uploads/2026/01/01-14.jpg",
       "https://draw.am/wp-content/uploads/2026/01/01-15.jpg"
     ],
-    "client": { "hy": "Private Client", "en": "Private Client", "ru": "Частный клиент" },
+    "client": {
+      "hy": "Private Client",
+      "en": "Private Client",
+      "ru": "Частный клиент"
+    },
     "area": "100 m²"
   },
   {
@@ -393,10 +614,22 @@
     "title": "House at Gajegortsner Street",
     "location": "Yerevan, Armenia",
     "year": 2016,
-    "category": { "hy": "House", "en": "House", "ru": "Дом" },
-    "subcategory": { "hy": "Architecture", "en": "Architecture", "ru": "Архитектура" },
+    "category": {
+      "hy": "House",
+      "en": "House",
+      "ru": "Дом"
+    },
+    "subcategory": {
+      "hy": "Architecture",
+      "en": "Architecture",
+      "ru": "Архитектура"
+    },
     "visualization": "Diana Hakhinyan",
-    "status": { "hy": "Completed", "en": "Completed", "ru": "Завершён" },
+    "status": {
+      "hy": "Completed",
+      "en": "Completed",
+      "ru": "Завершён"
+    },
     "description": {
       "hy": "An architectural project on Gajegortsner street featuring a residential house design with carefully composed exterior volumes and natural lighting.",
       "en": "An architectural project on Gajegortsner street featuring a residential house design with carefully composed exterior volumes and natural lighting.",
@@ -420,7 +653,11 @@
       "https://draw.am/wp-content/uploads/2017/01/1_CShading_LightMix_View120000.jpg",
       "https://draw.am/wp-content/uploads/2017/01/1_CShading_LightMix_View130000.jpg"
     ],
-    "client": { "hy": "Private Client", "en": "Private Client", "ru": "Частный клиент" },
+    "client": {
+      "hy": "Private Client",
+      "en": "Private Client",
+      "ru": "Частный клиент"
+    },
     "area": "350 m²"
   }
 ]
