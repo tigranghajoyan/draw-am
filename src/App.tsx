@@ -22,7 +22,7 @@ export default function App() {
       <LanguageProvider>
         <Suspense>
           <Routes>
-            <Route path="/" element={<Navigate to="/hy" replace />} />
+            <Route path="/" element={<Navigate to="/en" replace />} />
             <Route path="/:lang" element={<LanguageRoute />}>
               <Route element={<Layout />}>
                 <Route index element={<HomePage />} />
