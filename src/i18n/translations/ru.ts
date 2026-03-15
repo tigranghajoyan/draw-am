@@ -88,6 +88,12 @@ export const ru: Record<string, string> = {
   'project.notFound.cta': 'На главную',
   'project.gallery.label': 'ГАЛЕРЕЯ ПРОЕКТА',
   'project.gallery.title': 'Визуальное путешествие',
+  'project.gallery.renders': 'Проект',
+  'project.gallery.construction': 'Процесс',
+  'project.gallery.completed': 'Завершено',
+  'project.gallery.plans': 'Планы',
+  'project.gallery.comingSoon': 'Фото скоро',
+  'project.details.builtBy': 'Строительство',
   'project.related.label': 'ПОХОЖИЕ',
   'project.related.title': 'Похожие проекты',
   'project.details.client': 'Клиент',
@@ -96,7 +102,8 @@ export const ru: Record<string, string> = {
   'project.details.category': 'Категория',
   'project.details.status': 'Статус',
   'project.details.area': 'Площадь',
-  'project.details.visualization': 'Визуализация',
+  'project.details.visualization': 'Дизайн',
+  'project.viewer3d': 'Обзор в 3D',
   'project.related.similar': 'Похожий проект',
 
   // Calculator Page

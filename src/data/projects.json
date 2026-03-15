@@ -1,232 +1,9 @@
 [
   {
-    "slug": "apartment-at-nazarbekyan-st",
-    "title": "Apartment at Nazarbekyan st",
-    "location": "Yerevan, Armenia",
-    "year": 2022,
-    "category": {
-      "hy": "Residential",
-      "en": "Residential",
-      "ru": "Жилой"
-    },
-    "subcategory": {
-      "hy": "Interior",
-      "en": "Interior",
-      "ru": "Интерьер"
-    },
-    "visualization": "Nairi Arshakyan",
-    "status": {
-      "hy": "Completed",
-      "en": "Completed",
-      "ru": "Завершён"
-    },
-    "description": {
-      "hy": "A sophisticated residential interior with warm minimalist aesthetics, featuring elegant living spaces, a cozy bedroom, a functional home office, and a refined bathroom.",
-      "en": "A sophisticated residential interior with warm minimalist aesthetics, featuring elegant living spaces, a cozy bedroom, a functional home office, and a refined bathroom.",
-      "ru": "Утончённый жилой интерьер в стиле тёплого минимализма с элегантными жилыми зонами, уютной спальней, функциональным домашним кабинетом и изысканной ванной комнатой."
-    },
-    "fullDescription": {
-      "hy": "This apartment on Nazarbekyan street in Yerevan showcases a masterfully designed interior that embodies warm minimalism. The living room features a rich material palette with natural textures, soft lighting, and carefully curated furniture. The bedroom balances comfort with refined aesthetics, while the home office provides a productive yet stylish workspace. The bathroom design completes the experience with premium fixtures and timeless finishes. Visualization by Nairi Arshakyan.",
-      "en": "This apartment on Nazarbekyan street in Yerevan showcases a masterfully designed interior that embodies warm minimalism. The living room features a rich material palette with natural textures, soft lighting, and carefully curated furniture. The bedroom balances comfort with refined aesthetics, while the home office provides a productive yet stylish workspace. The bathroom design completes the experience with premium fixtures and timeless finishes. Visualization by Nairi Arshakyan.",
-      "ru": "Квартира на улице Назарбекяна в Ереване демонстрирует мастерски спроектированный интерьер в стиле тёплого минимализма. Гостиная отличается богатой палитрой материалов с натуральными текстурами, мягким освещением и тщательно подобранной мебелью. Спальня сочетает комфорт с утончённой эстетикой, а домашний кабинет предоставляет продуктивное и стильное рабочее пространство. Ванная комната завершает впечатление премиальной сантехникой и вневременной отделкой. Визуализация Наири Аршакяна."
-    },
-    "image": "https://draw.am/wp-content/uploads/2026/02/Nare-living-room-02-11.jpg",
-    "gallery": [
-      "https://draw.am/wp-content/uploads/2026/02/Nare-living-room-02-1.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Nare-living-room-02-4.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Nare-living-room-02-10.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Nare-living-room-02-8.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Nare-living-room-02-16.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Nare-living-room-02-14.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Nare-living-room-02-11.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Nare-living-room-02-21.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Nare-living-room-02-27.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Nare-living-room-02-12.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Nare-living-room-02-24.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Nare-living-room-02-23.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Nare-living-room-02-18.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Nare-living-room-02-7.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Nare-living-room-02-20.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Nare-living-room-02-26.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Nare-living-room-02-28.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Nare-badroom-02-9.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Nare-badroom-02-4.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Nare-badroom-02-5.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Nare-badroom-02-6.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Nare-badroom-02-10.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Nare-badroom-02-11.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Nare-Office-001-1.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Nare-Office-001-2.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Nare-Office-001-6.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Nare-Office-001-3.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Nare-Office-001-5.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Nare-Office-001-7.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Nare-Office-001-10.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/NAre-Bathroom-002-1.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/NAre-Bathroom-002-3.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/NAre-Bathroom-002-4.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/NAre-Bathroom-002-5.jpg"
-    ],
-    "client": {
-      "hy": "Private Client",
-      "en": "Private Client",
-      "ru": "Частный клиент"
-    },
-    "area": "90 m²"
-  },
-  {
-    "slug": "apartment-at-aram-khachatryan-st",
-    "title": "Apartment at Aram Khachatryan st",
-    "location": "Yerevan, Armenia",
-    "year": 2024,
-    "category": {
-      "hy": "Residential",
-      "en": "Residential",
-      "ru": "Жилой"
-    },
-    "subcategory": {
-      "hy": "Interior",
-      "en": "Interior",
-      "ru": "Интерьер"
-    },
-    "visualization": "Diana Hakhinyan",
-    "status": {
-      "hy": "Completed",
-      "en": "Completed",
-      "ru": "Завершён"
-    },
-    "description": {
-      "hy": "A modern residential interior designed with a refined material palette, blending contemporary aesthetics with comfortable living spaces.",
-      "en": "A modern residential interior designed with a refined material palette, blending contemporary aesthetics with comfortable living spaces.",
-      "ru": "Современный жилой интерьер с изысканной палитрой материалов, сочетающий современную эстетику с комфортным жилым пространством."
-    },
-    "fullDescription": {
-      "hy": "This apartment on Aram Khachatryan street in Yerevan showcases a thoughtfully designed residential interior that balances modern aesthetics with everyday comfort. The design employs a refined material palette and careful attention to lighting, creating spaces that feel both sophisticated and inviting.",
-      "en": "This apartment on Aram Khachatryan street in Yerevan showcases a thoughtfully designed residential interior that balances modern aesthetics with everyday comfort. The design employs a refined material palette and careful attention to lighting, creating spaces that feel both sophisticated and inviting.",
-      "ru": "Квартира на улице Арама Хачатуряна в Ереване демонстрирует продуманный жилой интерьер, в котором современная эстетика сочетается с повседневным комфортом. Дизайн использует изысканную палитру материалов и тщательно продуманное освещение, создавая пространства, которые выглядят одновременно утончённо и уютно. Визуализация Дианы Хахинян."
-    },
-    "image": "/images/projects/aram-khachatryan/living-sofa-front.jpg",
-    "gallery": [
-      "https://draw.am/wp-content/uploads/2026/02/360000.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/410000.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/380000.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/120000.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/80000.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/30000.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/50000.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/110000.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/180000.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/90000.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/2000052616.jpg",
-      "/images/projects/aram-khachatryan/living-sofa-front.jpg",
-      "/images/projects/aram-khachatryan/living-sofa-side.jpg",
-      "/images/projects/aram-khachatryan/living-detail.jpg",
-      "/images/projects/aram-khachatryan/living-table-detail.jpg",
-      "/images/projects/aram-khachatryan/living-tv-wall.jpg",
-      "/images/projects/aram-khachatryan/workspace-full.jpg",
-      "/images/projects/aram-khachatryan/workspace-detail.jpg",
-      "/images/projects/aram-khachatryan/bedroom-front.jpg",
-      "/images/projects/aram-khachatryan/bedroom-wide.jpg",
-      "/images/projects/aram-khachatryan/bedroom-wall.jpg",
-      "/images/projects/aram-khachatryan/bedroom-detail.jpg",
-      "/images/projects/aram-khachatryan/bedroom-vanity.jpg",
-      "/images/projects/aram-khachatryan/bedroom-desk-detail.jpg",
-      "/images/projects/aram-khachatryan/bedroom-full.jpg",
-      "/images/projects/aram-khachatryan/balcony.jpg",
-      "/images/projects/aram-khachatryan/bathroom-tub.jpg",
-      "/images/projects/aram-khachatryan/bathroom-shower.jpg",
-      "/images/projects/aram-khachatryan/bathroom-full.jpg"
-    ],
-    "client": {
-      "hy": "Private Client",
-      "en": "Private Client",
-      "ru": "Частный клиент"
-    },
-    "area": "120 m²"
-  },
-  {
-    "slug": "apartment-at-monte-melkonyan-st",
-    "title": "Apartment at Monte Melkonyan st",
-    "location": "Yerevan, Armenia",
-    "year": 2024,
-    "category": {
-      "hy": "Residential",
-      "en": "Residential",
-      "ru": "Жилой"
-    },
-    "subcategory": {
-      "hy": "Interior",
-      "en": "Interior",
-      "ru": "Интерьер"
-    },
-    "visualization": "Diana Hakhinyan",
-    "status": {
-      "hy": "Completed",
-      "en": "Completed",
-      "ru": "Завершён"
-    },
-    "description": {
-      "hy": "A comprehensive residential interior featuring distinct living room, bedroom, workspace, and bathroom zones with cohesive design language.",
-      "en": "A comprehensive residential interior featuring distinct living room, bedroom, workspace, and bathroom zones with cohesive design language.",
-      "ru": "Комплексный жилой интерьер с выраженными зонами гостиной, спальни, рабочего пространства и ванной комнаты с единым дизайнерским языком."
-    },
-    "fullDescription": {
-      "hy": "The apartment at Monte Melkonyan street presents a comprehensive interior design encompassing living room, bedroom, workspace, and bathroom areas. Each zone maintains a cohesive design language while expressing its own spatial character. The project demonstrates meticulous attention to material selection and spatial planning.",
-      "en": "The apartment at Monte Melkonyan street presents a comprehensive interior design encompassing living room, bedroom, workspace, and bathroom areas. Each zone maintains a cohesive design language while expressing its own spatial character. The project demonstrates meticulous attention to material selection and spatial planning.",
-      "ru": "Квартира на улице Монте Мелконяна представляет комплексный дизайн интерьера, охватывающий гостиную, спальню, рабочее пространство и ванную комнату. Каждая зона сохраняет целостный дизайнерский язык, выражая при этом свой пространственный характер. Проект демонстрирует тщательное внимание к подбору материалов и планировке. Визуализация Дианы Хахинян."
-    },
-    "image": "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-Living-room-7.jpg",
-    "gallery": [
-      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-Living-room-7.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-Living-room-9.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-Living-room-11.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-Living-room-25.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-Living-room-22.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-Living-room-26.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-Living-room-14.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-Living-room-21.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-Living-room-13.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-bedroom-1.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-bedroom-2.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-bedroom-3.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-bedroom-4.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-bedroom-5.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-bedroom-6.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-bedroom-7.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-bedroom-8.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-bedroom-9.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-bedroom-10.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-bedroom-11.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-bedroom-12.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-work-1.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-work-2.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-work-3.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-work-4.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-work-5.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-bath-1.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-bath-2.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-bath-3.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-bath-4.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-bath-5.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-bath-6.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-bath-7.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-bath-8.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-bath-9.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-bath-10.jpg",
-      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-bath-11.jpg"
-    ],
-    "client": {
-      "hy": "Private Client",
-      "en": "Private Client",
-      "ru": "Частный клиент"
-    },
-    "area": "85 m²"
-  },
-  {
     "slug": "apartment-at-davit-anhaght-st",
     "title": "Apartment at Davit Anhaght st",
     "location": "Yerevan, Armenia",
-    "year": 2024,
+    "year": 2025,
     "category": {
       "hy": "Residential",
       "en": "Residential",
@@ -310,13 +87,18 @@
       "en": "Private Client",
       "ru": "Частный клиент"
     },
-    "area": "150 m²"
+    "area": "150 m²",
+    "builtBy": {
+      "hy": "The Drawing Company",
+      "en": "The Drawing Company",
+      "ru": "The Drawing Company"
+    }
   },
   {
     "slug": "apartment-at-duryan-district",
     "title": "Apartment at Duryan District",
     "location": "Yerevan, Armenia",
-    "year": 2024,
+    "year": 2025,
     "category": {
       "hy": "Residential",
       "en": "Residential",
@@ -386,7 +168,170 @@
       "en": "Private Client",
       "ru": "Частный клиент"
     },
-    "area": "180 m²"
+    "area": "180 m²",
+    "builtBy": {
+      "hy": "The Drawing Company",
+      "en": "The Drawing Company",
+      "ru": "The Drawing Company"
+    }
+  },
+  {
+    "slug": "apartment-at-aram-khachatryan-st",
+    "title": "Apartment at Aram Khachatryan st",
+    "location": "Yerevan, Armenia",
+    "year": 2024,
+    "category": {
+      "hy": "Residential",
+      "en": "Residential",
+      "ru": "Жилой"
+    },
+    "subcategory": {
+      "hy": "Interior",
+      "en": "Interior",
+      "ru": "Интерьер"
+    },
+    "visualization": "Diana Hakhinyan",
+    "status": {
+      "hy": "Completed",
+      "en": "Completed",
+      "ru": "Завершён"
+    },
+    "description": {
+      "hy": "A modern residential interior designed with a refined material palette, blending contemporary aesthetics with comfortable living spaces.",
+      "en": "A modern residential interior designed with a refined material palette, blending contemporary aesthetics with comfortable living spaces.",
+      "ru": "Современный жилой интерьер с изысканной палитрой материалов, сочетающий современную эстетику с комфортным жилым пространством."
+    },
+    "fullDescription": {
+      "hy": "This apartment on Aram Khachatryan street in Yerevan showcases a thoughtfully designed residential interior that balances modern aesthetics with everyday comfort. The design employs a refined material palette and careful attention to lighting, creating spaces that feel both sophisticated and inviting.",
+      "en": "This apartment on Aram Khachatryan street in Yerevan showcases a thoughtfully designed residential interior that balances modern aesthetics with everyday comfort. The design employs a refined material palette and careful attention to lighting, creating spaces that feel both sophisticated and inviting.",
+      "ru": "Квартира на улице Арама Хачатуряна в Ереване демонстрирует продуманный жилой интерьер, в котором современная эстетика сочетается с повседневным комфортом. Дизайн использует изысканную палитру материалов и тщательно продуманное освещение, создавая пространства, которые выглядят одновременно утончённо и уютно. Визуализация Дианы Хахинян."
+    },
+    "image": "/images/projects/aram-khachatryan/living-sofa-front.jpg",
+    "gallery": [
+      "https://draw.am/wp-content/uploads/2026/02/360000.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/410000.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/380000.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/120000.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/80000.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/30000.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/50000.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/110000.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/180000.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/90000.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/2000052616.jpg",
+      "/images/projects/aram-khachatryan/living-sofa-front.jpg",
+      "/images/projects/aram-khachatryan/living-sofa-side.jpg",
+      "/images/projects/aram-khachatryan/living-detail.jpg",
+      "/images/projects/aram-khachatryan/living-table-detail.jpg",
+      "/images/projects/aram-khachatryan/living-tv-wall.jpg",
+      "/images/projects/aram-khachatryan/workspace-full.jpg",
+      "/images/projects/aram-khachatryan/workspace-detail.jpg",
+      "/images/projects/aram-khachatryan/bedroom-front.jpg",
+      "/images/projects/aram-khachatryan/bedroom-wide.jpg",
+      "/images/projects/aram-khachatryan/bedroom-wall.jpg",
+      "/images/projects/aram-khachatryan/bedroom-detail.jpg",
+      "/images/projects/aram-khachatryan/bedroom-vanity.jpg",
+      "/images/projects/aram-khachatryan/bedroom-desk-detail.jpg",
+      "/images/projects/aram-khachatryan/bedroom-full.jpg",
+      "/images/projects/aram-khachatryan/balcony.jpg",
+      "/images/projects/aram-khachatryan/bathroom-tub.jpg",
+      "/images/projects/aram-khachatryan/bathroom-shower.jpg",
+      "/images/projects/aram-khachatryan/bathroom-full.jpg"
+    ],
+    "client": {
+      "hy": "Private Client",
+      "en": "Private Client",
+      "ru": "Частный клиент"
+    },
+    "area": "120 m²",
+    "builtBy": {
+      "hy": "The Drawing Company",
+      "en": "The Drawing Company",
+      "ru": "The Drawing Company"
+    }
+  },
+  {
+    "slug": "apartment-at-monte-melkonyan-st",
+    "title": "Apartment at Monte Melkonyan st",
+    "location": "Yerevan, Armenia",
+    "year": 2024,
+    "category": {
+      "hy": "Residential",
+      "en": "Residential",
+      "ru": "Жилой"
+    },
+    "subcategory": {
+      "hy": "Interior",
+      "en": "Interior",
+      "ru": "Интерьер"
+    },
+    "visualization": "Diana Hakhinyan",
+    "status": {
+      "hy": "Completed",
+      "en": "Completed",
+      "ru": "Завершён"
+    },
+    "description": {
+      "hy": "A comprehensive residential interior featuring distinct living room, bedroom, workspace, and bathroom zones with cohesive design language.",
+      "en": "A comprehensive residential interior featuring distinct living room, bedroom, workspace, and bathroom zones with cohesive design language.",
+      "ru": "Комплексный жилой интерьер с выраженными зонами гостиной, спальни, рабочего пространства и ванной комнаты с единым дизайнерским языком."
+    },
+    "fullDescription": {
+      "hy": "The apartment at Monte Melkonyan street presents a comprehensive interior design encompassing living room, bedroom, workspace, and bathroom areas. Each zone maintains a cohesive design language while expressing its own spatial character. The project demonstrates meticulous attention to material selection and spatial planning.",
+      "en": "The apartment at Monte Melkonyan street presents a comprehensive interior design encompassing living room, bedroom, workspace, and bathroom areas. Each zone maintains a cohesive design language while expressing its own spatial character. The project demonstrates meticulous attention to material selection and spatial planning.",
+      "ru": "Квартира на улице Монте Мелконяна представляет комплексный дизайн интерьера, охватывающий гостиную, спальню, рабочее пространство и ванную комнату. Каждая зона сохраняет целостный дизайнерский язык, выражая при этом свой пространственный характер. Проект демонстрирует тщательное внимание к подбору материалов и планировке. Визуализация Дианы Хахинян."
+    },
+    "image": "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-Living-room-7.jpg",
+    "gallery": [
+      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-Living-room-7.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-Living-room-9.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-Living-room-11.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-Living-room-25.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-Living-room-22.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-Living-room-26.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-Living-room-14.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-Living-room-21.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-Living-room-13.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-bedroom-1.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-bedroom-2.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-bedroom-3.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-bedroom-4.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-bedroom-5.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-bedroom-6.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-bedroom-7.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-bedroom-8.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-bedroom-9.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-bedroom-10.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-bedroom-11.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-bedroom-12.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-work-1.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-work-2.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-work-3.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-work-4.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-work-5.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-bath-1.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-bath-2.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-bath-3.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-bath-4.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-bath-5.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-bath-6.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-bath-7.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-bath-8.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-bath-9.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-bath-10.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Tigran-Ap-bath-11.jpg"
+    ],
+    "client": {
+      "hy": "Private Client",
+      "en": "Private Client",
+      "ru": "Частный клиент"
+    },
+    "area": "85 m²",
+    "builtBy": {
+      "hy": "The Drawing Company",
+      "en": "The Drawing Company",
+      "ru": "The Drawing Company"
+    }
   },
   {
     "slug": "sweets-store-in-dubai",
@@ -440,7 +385,12 @@
       "en": "Private Client",
       "ru": "Частный клиент"
     },
-    "area": "95 m²"
+    "area": "95 m²",
+    "builtBy": {
+      "hy": "Other",
+      "en": "Other",
+      "ru": "Другие"
+    }
   },
   {
     "slug": "cafe-near-the-temple-of-garni",
@@ -503,7 +453,12 @@
       "en": "Private Client",
       "ru": "Частный клиент"
     },
-    "area": "200 m²"
+    "area": "200 m²",
+    "builtBy": {
+      "hy": "Other",
+      "en": "Other",
+      "ru": "Другие"
+    }
   },
   {
     "slug": "staff-cafeteria-in-sewing-factory",
@@ -552,7 +507,12 @@
       "en": "Private Client",
       "ru": "Частный клиент"
     },
-    "area": "110 m²"
+    "area": "110 m²",
+    "builtBy": {
+      "hy": "The Drawing Company",
+      "en": "The Drawing Company",
+      "ru": "The Drawing Company"
+    }
   },
   {
     "slug": "apartment-at-nar-dos-st",
@@ -607,13 +567,87 @@
       "en": "Private Client",
       "ru": "Частный клиент"
     },
-    "area": "100 m²"
+    "area": "100 m²",
+    "builtBy": {
+      "hy": "The Drawing Company",
+      "en": "The Drawing Company",
+      "ru": "The Drawing Company"
+    }
+  },
+  {
+    "slug": "apartment-at-vagharshyan-st",
+    "title": "Apartment at Vagharshyan st",
+    "location": "Yerevan, Armenia",
+    "year": 2023,
+    "category": {
+      "hy": "Residential",
+      "en": "Residential",
+      "ru": "Жилой"
+    },
+    "subcategory": {
+      "hy": "Interior",
+      "en": "Interior",
+      "ru": "Интерьер"
+    },
+    "visualization": "Nairi Arshakyan",
+    "status": {
+      "hy": "Completed",
+      "en": "Completed",
+      "ru": "Завершён"
+    },
+    "description": {
+      "hy": "A completed residential interior featuring warm tones, natural materials, and thoughtful spatial planning throughout the apartment.",
+      "en": "A completed residential interior featuring warm tones, natural materials, and thoughtful spatial planning throughout the apartment.",
+      "ru": "Завершённый жилой интерьер с тёплыми тонами, натуральными материалами и продуманной планировкой."
+    },
+    "fullDescription": {
+      "hy": "This apartment on Vagharshyan street in Yerevan features a fully realized interior design with warm, inviting tones and carefully selected natural materials. The space showcases thoughtful attention to detail in every room — from the living areas through to the bedrooms and bathroom. Design by Nairi Arshakyan, construction by The Drawing Company.",
+      "en": "This apartment on Vagharshyan street in Yerevan features a fully realized interior design with warm, inviting tones and carefully selected natural materials. The space showcases thoughtful attention to detail in every room — from the living areas through to the bedrooms and bathroom. Design by Nairi Arshakyan, construction by The Drawing Company.",
+      "ru": "Квартира на улице Вагаршяна в Ереване представляет полностью реализованный дизайн интерьера с тёплыми тонами и тщательно подобранными натуральными материалами. Пространство демонстрирует внимание к деталям в каждой комнате. Дизайн — Наири Аршакян, строительство — The Drawing Company."
+    },
+    "image": "https://draw.am/wp-content/uploads/2026/03/Vaxarshyan-Apt-16.jpg",
+    "gallery": [
+      "https://draw.am/wp-content/uploads/2026/03/Vaxarshyan-Apt-16.jpg",
+      "https://draw.am/wp-content/uploads/2026/03/Vaxarshyan-Apt-25.jpg",
+      "https://draw.am/wp-content/uploads/2026/03/Vaxarshyan-Apt-12.jpg",
+      "https://draw.am/wp-content/uploads/2026/03/Vaxarshyan-Apt-10.jpg",
+      "https://draw.am/wp-content/uploads/2026/03/Vaxarshyan-Apt-15.jpg",
+      "https://draw.am/wp-content/uploads/2026/03/Vaxarshyan-Apt-24.jpg",
+      "https://draw.am/wp-content/uploads/2026/03/Vaxarshyan-Apt-22.jpg",
+      "https://draw.am/wp-content/uploads/2026/03/Vaxarshyan-Apt-17.jpg",
+      "https://draw.am/wp-content/uploads/2026/03/Vaxarshyan-Apt-23.jpg",
+      "https://draw.am/wp-content/uploads/2026/03/Vaxarshyan-Apt-21.jpg",
+      "https://draw.am/wp-content/uploads/2026/03/Vaxarshyan-Apt-11.jpg",
+      "https://draw.am/wp-content/uploads/2026/03/Vaxarshyan-Apt-14.jpg",
+      "https://draw.am/wp-content/uploads/2026/03/Vaxarshyan-Apt-20.jpg",
+      "https://draw.am/wp-content/uploads/2026/03/Vaxarshyan-Apt-26.jpg",
+      "https://draw.am/wp-content/uploads/2026/03/Vaxarshyan-Apt-18.jpg",
+      "https://draw.am/wp-content/uploads/2026/03/Vaxarshyan-Apt-13.jpg",
+      "https://draw.am/wp-content/uploads/2026/03/Vaxarshyan-Apt-9.jpg",
+      "https://draw.am/wp-content/uploads/2026/03/Vaxarshyan-Apt-29.jpg",
+      "https://draw.am/wp-content/uploads/2026/03/Vaxarshyan-Apt-30.jpg",
+      "https://draw.am/wp-content/uploads/2026/03/Vaxarshyan-Apt-3.jpg",
+      "https://draw.am/wp-content/uploads/2026/03/Vaxarshyan-Apt-2.jpg",
+      "https://draw.am/wp-content/uploads/2026/03/Vaxarshyan-Apt-7.jpg",
+      "https://draw.am/wp-content/uploads/2026/03/Vaxarshyan-Apt-8.jpg"
+    ],
+    "client": {
+      "hy": "Private Client",
+      "en": "Private Client",
+      "ru": "Частный клиент"
+    },
+    "area": "—",
+    "builtBy": {
+      "hy": "The Drawing Company",
+      "en": "The Drawing Company",
+      "ru": "The Drawing Company"
+    }
   },
   {
     "slug": "house-at-gajegortsner-street",
     "title": "House at Gajegortsner Street",
     "location": "Yerevan, Armenia",
-    "year": 2016,
+    "year": 2023,
     "category": {
       "hy": "House",
       "en": "House",
@@ -658,6 +692,183 @@
       "en": "Private Client",
       "ru": "Частный клиент"
     },
-    "area": "350 m²"
+    "area": "350 m²",
+    "builtBy": {
+      "hy": "The Drawing Company",
+      "en": "The Drawing Company",
+      "ru": "The Drawing Company"
+    }
+  },
+  {
+    "slug": "apartment-at-nazarbekyan-st",
+    "title": "Apartment at Nazarbekyan st",
+    "location": "Yerevan, Armenia",
+    "year": 2022,
+    "category": {
+      "hy": "Residential",
+      "en": "Residential",
+      "ru": "Жилой"
+    },
+    "subcategory": {
+      "hy": "Interior",
+      "en": "Interior",
+      "ru": "Интерьер"
+    },
+    "visualization": "Nairi Arshakyan",
+    "status": {
+      "hy": "Completed",
+      "en": "Completed",
+      "ru": "Завершён"
+    },
+    "description": {
+      "hy": "A sophisticated residential interior with warm minimalist aesthetics, featuring elegant living spaces, a cozy bedroom, a functional home office, and a refined bathroom.",
+      "en": "A sophisticated residential interior with warm minimalist aesthetics, featuring elegant living spaces, a cozy bedroom, a functional home office, and a refined bathroom.",
+      "ru": "Утончённый жилой интерьер в стиле тёплого минимализма с элегантными жилыми зонами, уютной спальней, функциональным домашним кабинетом и изысканной ванной комнатой."
+    },
+    "fullDescription": {
+      "hy": "This apartment on Nazarbekyan street in Yerevan showcases a masterfully designed interior that embodies warm minimalism. The living room features a rich material palette with natural textures, soft lighting, and carefully curated furniture. The bedroom balances comfort with refined aesthetics, while the home office provides a productive yet stylish workspace. The bathroom design completes the experience with premium fixtures and timeless finishes. Visualization by Nairi Arshakyan.",
+      "en": "This apartment on Nazarbekyan street in Yerevan showcases a masterfully designed interior that embodies warm minimalism. The living room features a rich material palette with natural textures, soft lighting, and carefully curated furniture. The bedroom balances comfort with refined aesthetics, while the home office provides a productive yet stylish workspace. The bathroom design completes the experience with premium fixtures and timeless finishes. Visualization by Nairi Arshakyan.",
+      "ru": "Квартира на улице Назарбекяна в Ереване демонстрирует мастерски спроектированный интерьер в стиле тёплого минимализма. Гостиная отличается богатой палитрой материалов с натуральными текстурами, мягким освещением и тщательно подобранной мебелью. Спальня сочетает комфорт с утончённой эстетикой, а домашний кабинет предоставляет продуктивное и стильное рабочее пространство. Ванная комната завершает впечатление премиальной сантехникой и вневременной отделкой. Визуализация Наири Аршакяна."
+    },
+    "image": "https://draw.am/wp-content/uploads/2026/02/Nare-living-room-02-11.jpg",
+    "gallery": [
+      "https://draw.am/wp-content/uploads/2026/02/Nare-living-room-02-1.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-living-room-02-4.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-living-room-02-10.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-living-room-02-8.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-living-room-02-16.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-living-room-02-14.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-living-room-02-11.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-living-room-02-21.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-living-room-02-27.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-living-room-02-12.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-living-room-02-24.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-living-room-02-23.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-living-room-02-18.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-living-room-02-7.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-living-room-02-20.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-living-room-02-26.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-living-room-02-28.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-badroom-02-9.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-badroom-02-4.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-badroom-02-5.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-badroom-02-6.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-badroom-02-10.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-badroom-02-11.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-Office-001-1.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-Office-001-2.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-Office-001-6.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-Office-001-3.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-Office-001-5.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-Office-001-7.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/Nare-Office-001-10.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/NAre-Bathroom-002-1.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/NAre-Bathroom-002-3.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/NAre-Bathroom-002-4.jpg",
+      "https://draw.am/wp-content/uploads/2026/02/NAre-Bathroom-002-5.jpg"
+    ],
+    "client": {
+      "hy": "Private Client",
+      "en": "Private Client",
+      "ru": "Частный клиент"
+    },
+    "area": "90 m²",
+    "builtBy": {
+      "hy": "Other",
+      "en": "Other",
+      "ru": "Другие"
+    }
+  },
+  {
+    "slug": "apartment-at-arghutyan-st",
+    "title": "Apartment at Arghutyan st",
+    "location": "Yerevan, Armenia",
+    "year": 2022,
+    "category": {
+      "hy": "Residential",
+      "en": "Residential",
+      "ru": "Жилой"
+    },
+    "subcategory": {
+      "hy": "Interior",
+      "en": "Interior",
+      "ru": "Интерьер"
+    },
+    "visualization": "Diana Hakhinyan",
+    "status": {
+      "hy": "Completed",
+      "en": "Completed",
+      "ru": "Завершён"
+    },
+    "description": {
+      "hy": "A residential interior design project featuring a complete 3D walkthrough model, allowing clients to explore every detail of the space.",
+      "en": "A residential interior design project featuring a complete 3D walkthrough model, allowing clients to explore every detail of the space.",
+      "ru": "Проект дизайна интерьера жилого пространства с полной 3D-моделью для виртуального обзора."
+    },
+    "fullDescription": {
+      "hy": "This apartment on Arghutyan street showcases a thoughtfully designed interior with a BIMx Hyper-model that allows interactive 3D exploration. Clients can navigate through every room, examine material choices, and experience the spatial flow of the design before construction begins. Visualization by Sasha Hamolin.",
+      "en": "This apartment on Arghutyan street showcases a thoughtfully designed interior with a BIMx Hyper-model that allows interactive 3D exploration. Clients can navigate through every room, examine material choices, and experience the spatial flow of the design before construction begins. Visualization by Sasha Hamolin.",
+      "ru": "Квартира на улице Аргутяна демонстрирует продуманный дизайн интерьера с гипермоделью BIMx для интерактивного 3D-обзора. Клиенты могут перемещаться по каждому помещению, изучать выбор материалов и ощутить пространственный поток дизайна до начала строительства. Визуализация Саши Хамолина."
+    },
+    "image": "https://draw.am/wp-content/uploads/2026/03/IMG_2558.jpg",
+    "gallery": {
+      "renders": [],
+      "construction": [],
+      "completed": [
+        "https://draw.am/wp-content/uploads/2026/03/IMG_2558.jpg",
+        "https://draw.am/wp-content/uploads/2026/03/IMG_2734-rotated.jpg",
+        "https://draw.am/wp-content/uploads/2026/03/IMG_2648-rotated.jpg",
+        "https://draw.am/wp-content/uploads/2026/03/IMG_2634-rotated.jpg",
+        "https://draw.am/wp-content/uploads/2026/03/IMG_2641-rotated.jpg",
+        "https://draw.am/wp-content/uploads/2026/03/IMG_2624-rotated.jpg",
+        "https://draw.am/wp-content/uploads/2026/03/IMG_2637-rotated.jpg",
+        "https://draw.am/wp-content/uploads/2026/03/IMG_2630-rotated.jpg",
+        "https://draw.am/wp-content/uploads/2026/03/IMG_2616-rotated.jpg",
+        "https://draw.am/wp-content/uploads/2026/03/IMG_2565.jpg",
+        "https://draw.am/wp-content/uploads/2026/03/IMG_2561.jpg",
+        "https://draw.am/wp-content/uploads/2026/03/IMG_2612-rotated.jpg",
+        "https://draw.am/wp-content/uploads/2026/03/IMG_2613-rotated.jpg",
+        "https://draw.am/wp-content/uploads/2026/03/IMG_2560.jpg",
+        "https://draw.am/wp-content/uploads/2026/03/IMG_2592.jpg",
+        "https://draw.am/wp-content/uploads/2026/03/IMG_2576-rotated.jpg",
+        "https://draw.am/wp-content/uploads/2026/03/IMG_2704.jpg",
+        "https://draw.am/wp-content/uploads/2026/03/IMG_2703.jpg",
+        "https://draw.am/wp-content/uploads/2026/03/IMG_2594-rotated.jpg",
+        "https://draw.am/wp-content/uploads/2026/03/IMG_2578-rotated.jpg",
+        "https://draw.am/wp-content/uploads/2026/03/IMG_2666-rotated.jpg",
+        "https://draw.am/wp-content/uploads/2026/03/IMG_2662-rotated.jpg",
+        "https://draw.am/wp-content/uploads/2026/03/IMG_2672-rotated.jpg",
+        "https://draw.am/wp-content/uploads/2026/03/IMG_2698-rotated.jpg",
+        "https://draw.am/wp-content/uploads/2026/03/IMG_2683-rotated.jpg",
+        "https://draw.am/wp-content/uploads/2026/03/IMG_2696.jpg",
+        "https://draw.am/wp-content/uploads/2026/03/IMG_2656-rotated.jpg",
+        "https://draw.am/wp-content/uploads/2026/03/IMG_2728-rotated.jpg",
+        "https://draw.am/wp-content/uploads/2026/03/IMG_2731-rotated.jpg",
+        "https://draw.am/wp-content/uploads/2026/03/IMG_2729.jpg",
+        "https://draw.am/wp-content/uploads/2026/03/IMG_2733-rotated.jpg",
+        "https://draw.am/wp-content/uploads/2026/03/IMG_2744-rotated.jpg",
+        "https://draw.am/wp-content/uploads/2026/03/IMG_2749-rotated.jpg",
+        "https://draw.am/wp-content/uploads/2026/03/IMG_2705-rotated.jpg",
+        "https://draw.am/wp-content/uploads/2026/03/IMG_2711-rotated.jpg",
+        "https://draw.am/wp-content/uploads/2026/03/IMG_2722-rotated.jpg",
+        "https://draw.am/wp-content/uploads/2026/03/IMG_2717-rotated.jpg",
+        "https://draw.am/wp-content/uploads/2026/03/IMG_2721-rotated.jpg",
+        "https://draw.am/wp-content/uploads/2026/03/IMG_2736-rotated.jpg",
+        "https://draw.am/wp-content/uploads/2026/03/IMG_2740-rotated.jpg"
+      ],
+      "plans": []
+    },
+    "client": {
+      "hy": "Private Client",
+      "en": "Private Client",
+      "ru": "Частный клиент"
+    },
+    "area": "—",
+    "iframe3d": "https://bimx.graphisoft.com/model/f755ede3-7e50-4917-b7ce-be6489a12408",
+    "builtBy": {
+      "hy": "The Drawing Company",
+      "en": "The Drawing Company",
+      "ru": "The Drawing Company"
+    }
   }
 ]

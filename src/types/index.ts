@@ -1,6 +1,13 @@
 import type { L } from '@/i18n/types';
 export type { L };
 
+export interface ProjectGallery {
+  renders?: string[];
+  construction?: string[];
+  completed?: string[];
+  plans?: string[];
+}
+
 export interface Project {
   slug: string;
   title: string;
@@ -11,11 +18,13 @@ export interface Project {
   description: L;
   fullDescription: L;
   image: string;
-  gallery: string[];
+  gallery: string[] | ProjectGallery;
   client: L;
   area: string;
   subcategory?: L;
   visualization?: string;
+  iframe3d?: string;
+  builtBy?: L;
 }
 
 export interface TeamMember {

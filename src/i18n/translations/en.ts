@@ -88,6 +88,12 @@ export const en: Record<string, string> = {
   'project.notFound.cta': 'Back to Home',
   'project.gallery.label': 'PROJECT GALLERY',
   'project.gallery.title': 'Visual Journey',
+  'project.gallery.renders': 'Project',
+  'project.gallery.construction': 'Process',
+  'project.gallery.completed': 'Completed',
+  'project.gallery.plans': 'Plans',
+  'project.gallery.comingSoon': 'Photos coming soon',
+  'project.details.builtBy': 'Construction',
   'project.related.label': 'RELATED',
   'project.related.title': 'Similar Projects',
   'project.details.client': 'Client',
@@ -96,7 +102,8 @@ export const en: Record<string, string> = {
   'project.details.category': 'Category',
   'project.details.status': 'Status',
   'project.details.area': 'Area',
-  'project.details.visualization': 'Visualization',
+  'project.details.visualization': 'Design',
+  'project.viewer3d': 'Explore in 3D',
   'project.related.similar': 'Similar post',
 
   // Calculator Page
